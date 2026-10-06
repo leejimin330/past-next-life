@@ -1,0 +1,216 @@
+# id	이름	영문명	권역	등급(common/uncommon/rare/legendary)	서식국가(쉼표) 또는 대양좌표(이름@위도,경도;…)	이모지	한 줄 멘트
+# `npm run build:data` 가 이 파일을 src/data/animals.json 으로 변환한다.
+
+## 전역 공통종
+mosquito	모기	Mosquito	global	common		🦟	인류 최대의 적. 여름밤 귓가의 주인공
+cockroach	바퀴벌레	Cockroach	global	common		🪳	공룡보다 먼저 왔고 인류보다 오래 남을 예정
+housefly	집파리	Housefly	global	common		🪰	반찬 위 착륙 전문
+ant	개미	Ant	global	common		🐜	평생 야근하는 성실한 일꾼
+mayfly	하루살이	Mayfly	global	uncommon		🪽	인생 한 줄 요약: 하루
+earthworm	지렁이	Earthworm	global	common		🪱	비 오는 날 보도블록 탐험가
+pigeon	집비둘기	Rock pigeon	global	common		🐦	광장의 실질적 지배자
+brown_rat	시궁쥐	Brown rat	global	uncommon		🐀	요리 실력은 미확인
+ladybug	무당벌레	Ladybug	global	uncommon		🐞	행운의 상징, 진딧물에겐 공포의 상징
+house_cat	집고양이	House cat	global	rare		🐈	집사를 거느린 상류층
+dog	개	Dog	global	rare		🐕	산책이 인생의 전부
+chicken	닭	Chicken	global	uncommon		🐓	아침마다 알람 담당
+tardigrade	완보동물(물곰)	Tardigrade	global	legendary		🐻	우주 진공에서도 살아남는 지구 최강 생명체
+
+## 동아시아
+tiger_beetle	길앞잡이	Tiger beetle	east_asia	uncommon	KOR,JPN,CHN	🪲	등산객 앞에서 길 안내하듯 계속 날아가는 딱정벌레
+giant_hornet	장수말벌	Asian giant hornet	east_asia	rare	KOR,JPN,CHN	🐝	벌 세계의 최종 보스
+water_deer	고라니	Water deer	east_asia	uncommon	KOR,CHN	🦌	세계적으론 희귀종, 한국 도로에선 단골
+magpie	까치	Oriental magpie	east_asia	common	KOR,CHN,JPN	🐦‍⬛	반가운 손님 알림 서비스
+goral	산양	Long-tailed goral	east_asia	rare	KOR,CHN,RUS	🐐	절벽 위 암벽등반가
+eurasian_otter	수달	Eurasian otter	east_asia	uncommon	KOR,JPN,CHN	🦦	손잡고 자는 귀여움
+red_crowned_crane	두루미	Red-crowned crane	east_asia	rare	KOR,JPN,CHN	🕊️	천 년을 산다는 전설의 새
+raccoon_dog	너구리	Raccoon dog	east_asia	common	KOR,JPN,CHN	🦝	라면 아님
+japanese_macaque	일본원숭이	Japanese macaque	east_asia	uncommon	JPN	🐒	눈 오는 날 온천욕하는 원숭이
+giant_panda	자이언트판다	Giant panda	east_asia	legendary	CHN	🐼	하루 종일 대나무만 먹는 국보
+red_panda	레서판다	Red panda	east_asia	rare	CHN	🦊	원조 판다는 사실 이쪽
+
+## 동남아시아
+orangutan	오랑우탄	Orangutan	southeast_asia	rare	IDN,MYS	🦧	숲의 사람이라는 뜻
+komodo_dragon	코모도왕도마뱀	Komodo dragon	southeast_asia	legendary	IDN	🦎	현존 최대 도마뱀
+philippine_tarsier	필리핀안경원숭이	Philippine tarsier	southeast_asia	rare	PHL	🐒	눈알 하나가 뇌만 함
+proboscis_monkey	긴코원숭이	Proboscis monkey	southeast_asia	uncommon	MYS,IDN,BRN	🐵	코가 클수록 인기남
+malayan_tapir	말레이맥	Malayan tapir	southeast_asia	uncommon	MYS,THA,IDN	🐖	흑백 판다색 코끼리돼지
+flying_dragon	날도마뱀	Flying dragon	southeast_asia	uncommon	MYS,IDN,THA	🦎	도마뱀인데 활공함
+reticulated_python	그물무늬비단뱀	Reticulated python	southeast_asia	uncommon	IDN,MYS,THA,VNM	🐍	세계에서 가장 긴 뱀
+civet	사향고양이	Asian palm civet	southeast_asia	common	IDN,VNM,PHL	🐈‍⬛	커피 원두 가공 전문
+archerfish	물총고기	Archerfish	southeast_asia	common	THA,MYS,IDN	🐟	물총으로 벌레 사냥하는 스나이퍼
+
+## 남아시아·히말라야
+bengal_tiger	벵골호랑이	Bengal tiger	south_asia	legendary	IND,BGD,NPL,BTN	🐅	정글의 왕
+indian_elephant	인도코끼리	Indian elephant	south_asia	rare	IND,LKA	🐘	사원 행사 단골 VIP
+indian_rhino	인도코뿔소	Indian rhinoceros	south_asia	rare	IND,NPL	🦏	갑옷 입은 탱크
+peafowl	인도공작	Indian peafowl	south_asia	uncommon	IND,LKA	🦚	꼬리 하나로 인생 역전
+king_cobra	킹코브라	King cobra	south_asia	rare	IND,THA,MYS	🐍	뱀을 잡아먹는 뱀
+sloth_bear	느림보곰	Sloth bear	south_asia	uncommon	IND,LKA	🐻	흰개미를 빨대처럼 흡입
+gharial	가비알	Gharial	south_asia	rare	IND,NPL	🐊	주둥이가 젓가락 같은 악어
+yak	야크	Yak	south_asia	common	NPL,BTN,CHN	🐃	히말라야 택배기사
+snow_leopard	눈표범	Snow leopard	south_asia	legendary	NPL,BTN,IND,MNG	🐆	산의 유령
+
+## 중동·중앙아시아
+dromedary	단봉낙타	Dromedary	middle_east	common	SAU,ARE,OMN	🐪	사막의 SUV
+bactrian_camel	쌍봉낙타	Bactrian camel	middle_east	uncommon	MNG,KAZ,CHN	🐫	혹 두 개 프리미엄 모델
+arabian_oryx	아라비아오릭스	Arabian oryx	middle_east	rare	OMN,SAU,ARE,JOR	🦌	유니콘 전설의 원조 후보
+saiga	사이가영양	Saiga antelope	middle_east	rare	KAZ,UZB,MNG	🐐	코가 너무 커서 표정이 억울함
+deathstalker	데스스토커전갈	Deathstalker scorpion	middle_east	uncommon	JOR,SAU	🦂	이름부터 이미 위험
+camel_spider	낙타거미	Camel spider	middle_east	common	SAU,IRN	🕷️	거미도 전갈도 아닌 무언가
+caracal	카라칼	Caracal	middle_east	uncommon	IRN,SAU,OMN	🐈	귀에 털 달린 점프왕 고양이
+przewalski_horse	프르제발스키말	Przewalski's horse	middle_east	rare	MNG	🐎	마지막 야생말
+
+## 유럽
+hedgehog	유럽고슴도치	European hedgehog	europe	common	GBR,DEU,FRA	🦔	공처럼 말리는 게 특기
+red_fox	붉은여우	Red fox	europe	common	GBR,DEU,FRA,ESP	🦊	동화 속 단골 악역
+white_stork	황새	White stork	europe	uncommon	POL,DEU,ESP	🪿	아기 배달 담당
+alpine_marmot	알프스마멋	Alpine marmot	europe	uncommon	CHE,FRA,ITA	🐿️	휘파람 부는 경비원
+wisent	유럽들소	European bison	europe	rare	POL	🦬	유럽 최대 육상동물
+stag_beetle	유럽사슴벌레	European stag beetle	europe	uncommon	GBR,DEU,FRA	🪲	턱이 몸의 절반
+olm	올름(동굴도롱뇽)	Olm	europe	legendary	SVN	🦎	눈 없이 동굴에서 100년 사는 도롱뇽
+puffin	코뿔바다오리(퍼핀)	Atlantic puffin	europe	uncommon	ISL,NOR,GBR	🐧	바다의 광대
+reindeer	순록	Reindeer	europe	uncommon	NOR,SWE,FIN	🦌	크리스마스 시즌 계약직
+burgundy_snail	부르고뉴달팽이	Burgundy snail	europe	common	FRA	🐌	에스카르고… 조심
+
+## 러시아·시베리아
+siberian_tiger	시베리아호랑이	Siberian tiger	russia	legendary	RUS	🐯	세상에서 가장 큰 고양이
+brown_bear	불곰	Brown bear	russia	uncommon	RUS	🐻	러시아 하면 이것
+baikal_seal	바이칼물범	Baikal seal	russia	rare	RUS	🦭	바다가 아닌 호수에 사는 물범
+sable	검은담비	Sable	russia	uncommon	RUS	🦡	털 한 올이 금값
+gray_wolf	회색늑대	Gray wolf	russia	uncommon	RUS	🐺	무리 생활 만렙
+musk_deer	사향노루	Siberian musk deer	russia	rare	RUS,MNG	🦌	송곳니 난 뱀파이어 사슴
+
+## 북아프리카·사하라
+fennec_fox	페넥여우(사막여우)	Fennec fox	north_africa	rare	DZA,TUN,MAR,EGY	🦊	귀가 얼굴보다 큼
+scarab	쇠똥구리(스카라브)	Scarab beetle	north_africa	common	EGY	🪲	고대 이집트의 신성한 똥 굴리기 장인
+desert_locust	사막메뚜기	Desert locust	north_africa	common	EGY,LBY	🦗	혼자면 메뚜기, 떼로 오면 재앙
+barbary_macaque	바르바리마카크	Barbary macaque	north_africa	uncommon	MAR,DZA	🐒	아프리카 유일의 꼬리 없는 원숭이
+horned_viper	뿔살무사	Horned viper	north_africa	uncommon	EGY,LBY	🐍	눈 위에 뿔 달린 뱀
+jerboa	사막뛰는쥐(저보아)	Jerboa	north_africa	uncommon	EGY,LBY,DZA	🐭	캥거루 코스프레하는 쥐
+
+## 사하라 이남 아프리카
+african_elephant	아프리카코끼리	African elephant	sub_saharan	rare	KEN,TZA,BWA,ZAF	🐘	현존 최대 육상동물
+lion	사자	Lion	sub_saharan	rare	KEN,TZA,ZAF,BWA	🦁	하루 20시간 자는 왕
+giraffe	기린	Giraffe	sub_saharan	uncommon	KEN,TZA,ZAF	🦒	목 길이 = 인생
+hippo	하마	Hippopotamus	sub_saharan	uncommon	TZA,UGA,ZAF	🦛	귀여운 얼굴의 최강 전투력
+cheetah	치타	Cheetah	sub_saharan	rare	NAM,BWA,KEN	🐆	육상 최고속, 체력은 최저
+mountain_gorilla	마운틴고릴라	Mountain gorilla	sub_saharan	legendary	RWA,UGA,COD	🦍	숲의 근육 대장
+chimpanzee	침팬지	Chimpanzee	sub_saharan	rare	COD,UGA,TZA	🐒	인류와 DNA 98% 공유
+meerkat	미어캣	Meerkat	sub_saharan	uncommon	ZAF,NAM,BWA	🐿️	서서 망보는 경비
+naked_mole_rat	벌거숭이두더지쥐	Naked mole-rat	sub_saharan	rare	KEN,ETH	🐁	늙지도 아프지도 않는 핑크 소시지
+honey_badger	벌꿀오소리	Honey badger	sub_saharan	uncommon	ZAF,KEN,TZA	🦡	겁이라는 개념이 없음
+wildebeest	누	Wildebeest	sub_saharan	common	KEN,TZA	🐃	대이동의 주인공
+tsetse_fly	체체파리	Tsetse fly	sub_saharan	common	KEN,TZA,COD	🪰	작지만 무서운 녀석
+okapi	오카피	Okapi	sub_saharan	legendary	COD	🦓	기린 친척인데 다리는 얼룩말
+termite	흰개미	Termite	sub_saharan	common	KEN,TZA,BWA	🐜	초고층 흙탑 건축가
+ostrich	타조	Ostrich	sub_saharan	uncommon	KEN,TZA,ZAF	🐦	날지 못하지만 달리기로 해결
+
+## 마다가스카르
+ring_tailed_lemur	알락꼬리여우원숭이	Ring-tailed lemur	madagascar	uncommon	MDG	🐒	아침마다 햇볕 요가
+aye_aye	아이아이	Aye-aye	madagascar	legendary	MDG	🐒	가운뎃손가락이 유난히 긴 야행성 원숭이
+fossa	포사	Fossa	madagascar	rare	MDG	🐈	고양이도 아니고 개도 아닌 섬의 최상위 포식자
+panther_chameleon	팬서카멜레온	Panther chameleon	madagascar	uncommon	MDG	🦎	기분 따라 색이 바뀜
+giraffe_weevil	기린목바구미	Giraffe weevil	madagascar	rare	MDG	🪲	목이 몸보다 긴 벌레
+sifaka	시파카	Sifaka	madagascar	rare	MDG	🐒	옆으로 춤추며 이동
+tenrec	텐렉	Tenrec	madagascar	common	MDG	🦔	고슴도치 짝퉁 같지만 전혀 다른 종
+
+## 북아메리카
+bald_eagle	흰머리수리	Bald eagle	north_america	rare	USA,CAN	🦅	미국의 상징
+grizzly_bear	회색곰	Grizzly bear	north_america	rare	USA,CAN	🐻	연어 뷔페 단골
+beaver	북아메리카비버	North American beaver	north_america	uncommon	CAN,USA	🦫	댐 건설 전문 토목기사
+skunk	줄무늬스컹크	Striped skunk	north_america	common	USA,CAN	🦨	최종 병기 보유
+raccoon	라쿤	Raccoon	north_america	common	USA,CAN	🦝	쓰레기통 판다
+american_bison	아메리카들소	American bison	north_america	uncommon	USA	🦬	대평원의 헤비급
+rattlesnake	방울뱀	Rattlesnake	north_america	uncommon	USA,MEX	🐍	꼬리로 경고음 울림
+opossum	버지니아주머니쥐	Virginia opossum	north_america	common	USA	🐀	위기 땐 죽은 척 연기
+monarch_butterfly	제왕나비	Monarch butterfly	north_america	uncommon	USA,CAN,MEX	🦋	수천 km 이주하는 나비
+moose	무스	Moose	north_america	uncommon	CAN,USA	🫎	사슴계의 대형 SUV
+periodical_cicada	주기매미	Periodical cicada	north_america	rare	USA	🦗	17년 땅속 생활 후 한 달 인생
+prairie_dog	프레리도그	Prairie dog	north_america	common	USA	🐿️	굴 도시의 시민
+
+## 중앙아메리카·카리브
+axolotl	아홀로틀(우파루파)	Axolotl	central_america	rare	MEX	🦎	평생 올챙이 얼굴로 웃는 도롱뇽
+strawberry_dart_frog	딸기독화살개구리	Strawberry poison-dart frog	central_america	rare	CRI,PAN,NIC	🐸	예쁜 건 위험하다
+red_eyed_tree_frog	붉은눈청개구리	Red-eyed tree frog	central_america	uncommon	CRI,PAN	🐸	모든 사진의 주인공
+basilisk	바실리스크도마뱀	Basilisk lizard	central_america	uncommon	CRI,PAN	🦎	물 위를 달리는 도마뱀
+quetzal	케찰	Resplendent quetzal	central_america	legendary	GTM,CRI	🦜	과테말라 화폐 이름이 된 새
+bee_hummingbird	쿠바벌새	Bee hummingbird	central_america	rare	CUB	🐦	세계에서 가장 작은 새
+green_iguana	녹색이구아나	Green iguana	central_america	common	MEX,CRI,PAN	🦎	일광욕 중독
+armadillo	아홉띠아르마딜로	Nine-banded armadillo	central_america	uncommon	MEX,USA	🐾	갑옷 입은 소형 굴착기
+
+## 아마존
+green_anaconda	그린아나콘다	Green anaconda	amazon	rare	BRA,PER,COL,VEN	🐍	세계에서 가장 무거운 뱀
+jaguar	재규어	Jaguar	amazon	legendary	BRA,PER,COL	🐆	아마존의 왕
+piranha	피라냐	Piranha	amazon	common	BRA,PER,COL	🐟	소문보다 겁이 많음
+capybara	카피바라	Capybara	amazon	uncommon	BRA,COL,VEN	🦫	모든 동물과 친구, 세계 최대 설치류
+toco_toucan	토코투칸	Toco toucan	amazon	uncommon	BRA	🦜	부리가 곧 정체성
+electric_eel	전기뱀장어	Electric eel	amazon	rare	BRA,PER,VEN	⚡	걸어다니는 배터리
+amazon_river_dolphin	아마존강돌고래	Amazon river dolphin	amazon	rare	BRA,PER,COL	🐬	분홍색 돌고래
+bullet_ant	총알개미	Bullet ant	amazon	uncommon	BRA,PER,COL	🐜	곤충 쏘임 통증 순위 최상위
+goliath_birdeater	골리앗버드이터	Goliath birdeater	amazon	rare	VEN,BRA,GUY,SUR	🕷️	강아지만 한 거미
+hoatzin	호아친	Hoatzin	amazon	uncommon	BRA,PER,COL	🐦	냄새나는 새라는 별명
+giant_anteater	큰개미핥기	Giant anteater	amazon	uncommon	BRA,COL	🐜	혀 길이 60cm
+three_toed_sloth	세발가락나무늘보	Three-toed sloth	amazon	common	BRA,PER,CRI,PAN	🦥	일주일에 한 번 화장실
+
+## 안데스·파타고니아·갈라파고스
+llama	라마	Llama	andes	common	PER,BOL	🦙	기분 나쁘면 침 뱉음
+alpaca	알파카	Alpaca	andes	common	PER,BOL	🦙	털 뭉치 스웨터 원료
+vicuna	비쿠냐	Vicuña	andes	rare	PER,BOL	🦙	세상에서 가장 비싼 털
+andean_condor	안데스콘도르	Andean condor	andes	rare	PER,CHL,ARG	🦅	날개 3m 하늘의 거인
+chinchilla	친칠라	Chinchilla	andes	uncommon	CHL	🐭	털이 너무 빽빽해서 벼룩도 못 삶
+guanaco	과나코	Guanaco	andes	common	ARG,CHL	🦙	야생 라마
+magellanic_penguin	마젤란펭귄	Magellanic penguin	andes	uncommon	ARG,CHL	🐧	더운 곳 사는 펭귄
+titicaca_frog	티티카카물개구리	Titicaca water frog	andes	rare	PER,BOL	🐸	피부가 쭈글쭈글 늘어진 호수 개구리
+galapagos_tortoise	갈라파고스땅거북	Galápagos tortoise	andes	legendary	ECU	🐢	100살은 기본
+marine_iguana	바다이구아나	Marine iguana	andes	rare	ECU	🦎	바다에서 수영하는 유일한 도마뱀
+blue_footed_booby	파란발부비새	Blue-footed booby	andes	uncommon	ECU	🐦	파란 발로 구애 댄스
+
+## 호주
+red_kangaroo	붉은캥거루	Red kangaroo	australia	common	AUS	🦘	복싱 챔피언
+koala	코알라	Koala	australia	uncommon	AUS	🐨	하루 20시간 수면
+wombat	웜뱃	Wombat	australia	uncommon	AUS	🐹	정육면체 똥을 싸는 유일한 동물
+platypus	오리너구리	Platypus	australia	rare	AUS	🦆	신이 남은 부품으로 만든 동물
+quokka	쿼카	Quokka	australia	uncommon	AUS	😊	세상에서 가장 행복한 얼굴
+emu	에뮤	Emu	australia	common	AUS	🐦	호주 군대와 전쟁해서 이긴 새
+tasmanian_devil	태즈메이니아데빌	Tasmanian devil	australia	rare	AUS	😈	이름만 악마, 사실 소형견 크기
+saltwater_crocodile	바다악어	Saltwater crocodile	australia	rare	AUS	🐊	현존 최대 파충류
+dingo	딩고	Dingo	australia	uncommon	AUS	🐕	호주 야생견
+cassowary	남방화식조	Southern cassowary	australia	legendary	AUS,PNG	🦤	세상에서 가장 위험한 새
+funnel_web_spider	시드니깔때기그물거미	Sydney funnel-web spider	australia	rare	AUS	🕷️	호주가 무서운 이유 1순위
+echidna	가시두더지	Echidna	australia	uncommon	AUS,PNG	🦔	알 낳는 포유류 2호
+kookaburra	웃음물총새(쿠카부라)	Kookaburra	australia	common	AUS	🐦	웃음소리가 공포영화 효과음
+
+## 뉴기니·뉴질랜드·태평양 섬
+birdwing_butterfly	알렉산드라비단제비나비	Queen Alexandra's birdwing	oceania	legendary	PNG	🦋	세계에서 가장 큰 나비, 날개 폭 약 25cm
+bird_of_paradise	극락조	Bird-of-paradise	oceania	rare	PNG,IDN	🦚	구애 댄스 장인
+tree_kangaroo	나무타기캥거루	Tree-kangaroo	oceania	rare	PNG	🦘	캥거루인데 나무에 삶
+kiwi	키위	Kiwi	oceania	uncommon	NZL	🥝	날개 없는 털뭉치 새
+kakapo	카카포	Kākāpō	oceania	legendary	NZL	🦜	날지 못하는 뚱뚱한 앵무새
+kea	케아	Kea	oceania	uncommon	NZL	🦜	자동차 와이퍼 뜯는 앵무새
+giant_weta	자이언트웨타	Giant wētā	oceania	rare	NZL	🦗	세상에서 가장 무거운 곤충 후보
+tuatara	투아타라	Tuatara	oceania	legendary	NZL	🦖	공룡시대부터 살아남은 파충류
+coconut_crab	야자집게	Coconut crab	oceania	rare	VUT,KIR	🦀	코코넛을 부수는 거대 게
+
+## 극지방
+polar_bear	북극곰	Polar bear	polar	rare	CAN,GRL,NOR,RUS	🐻‍❄️	흰 털 아래 피부는 검은색
+emperor_penguin	황제펭귄	Emperor penguin	polar	rare	ATA	🐧	영하 40도에서 알 품는 아빠
+arctic_fox	북극여우	Arctic fox	polar	uncommon	GRL,CAN,NOR	🦊	계절 따라 털색 체인지
+walrus	바다코끼리	Walrus	polar	uncommon	GRL,CAN,RUS	🦭	엄니로 빙판 등반
+narwhal	일각고래	Narwhal	polar	legendary	GRL,CAN	🦄	바다의 유니콘
+snowy_owl	흰올빼미	Snowy owl	polar	uncommon	CAN,GRL,NOR	🦉	하얀 부엉이
+weddell_seal	웨들해물범	Weddell seal	polar	uncommon	ATA	🦭	얼음 밑에서 노래함
+
+## 대양
+blue_whale	대왕고래	Blue whale	ocean	legendary	태평양@5,-140;남극해@-62,-100	🐋	지구 역사상 가장 큰 동물
+great_white_shark	백상아리	Great white shark	ocean	rare	대서양@34,-40;태평양@30,-135	🦈	바다의 공포
+ocean_sunfish	개복치	Ocean sunfish	ocean	uncommon	태평양@20,-155;대서양@30,-35	🐡	멘탈이 약하다는 소문의 주인공
+giant_squid	대왕오징어	Giant squid	ocean	legendary	태평양 심해@-42,170;대서양 심해@38,-28	🦑	눈이 농구공만 함
+immortal_jellyfish	작은보호탑해파리	Immortal jellyfish	ocean	legendary	대서양@28,-50;태평양@15,165	🪼	다시 어려지는 불사의 해파리
+sperm_whale	향유고래	Sperm whale	ocean	rare	태평양@0,-150;대서양@0,-25;인도양@-15,75	🐳	잠수 챔피언
+green_sea_turtle	푸른바다거북	Green sea turtle	ocean	uncommon	인도양@-15,80;태평양@5,160	🐢	바다의 장거리 여행자
+clownfish	흰동가리	Clownfish	ocean	common	인도양@-8,92;태평양@-15,155	🐠	말미잘 집 세입자
+sea_otter	해달	Sea otter	ocean	uncommon	북태평양@52,-165	🦦	손잡고 자는 바다 수달
+blobfish	블롭피시	Blobfish	ocean	rare	호주 근해 심해@-40,152	🫠	세계에서 가장 못생긴 동물 1위
+anglerfish	아귀	Anglerfish	ocean	uncommon	대서양@40,-30;태평양@25,-160	🎣	머리에 전등 달고 다님
+antarctic_krill	남극크릴	Antarctic krill	ocean	common	남극해@-62,-40	🦐	고래의 주식

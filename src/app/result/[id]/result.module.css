@@ -1,0 +1,22 @@
+.inner {
+  max-width: 760px;
+  display: grid;
+  gap: 16px;
+}
+
+.cta {
+  font-size: 18px;
+  padding: 16px;
+}
+
+.cross {
+  text-align: center;
+  color: var(--muted);
+  font-weight: 700;
+  text-decoration: none;
+  padding: 8px;
+}
+
+.cross:hover {
+  color: var(--accent);
+}

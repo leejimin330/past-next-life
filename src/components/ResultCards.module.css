@@ -1,0 +1,196 @@
+.subject {
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+/* ---------- 사람: 인생 기록 카드 ---------- */
+
+.human {
+  position: relative;
+  padding: 24px;
+  font-family: var(--font-serif), serif;
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 31px,
+    color-mix(in srgb, var(--border) 45%, transparent) 32px
+  );
+  overflow: hidden;
+}
+
+.humanHead {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  border-bottom: 2px double var(--border);
+  padding-bottom: 8px;
+  margin-bottom: 16px;
+}
+
+.serial {
+  font-variant-numeric: tabular-nums;
+}
+
+.humanTitle {
+  margin: 0 0 16px;
+  font-size: clamp(24px, 5vw, 32px);
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+  font-weight: 900;
+}
+
+.humanTitle em {
+  font-style: normal;
+  color: var(--accent);
+}
+
+.rows {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 8px 16px;
+  margin: 0 0 16px;
+}
+
+.rows div {
+  border-left: 3px solid var(--accent);
+  padding-left: 10px;
+}
+
+.rows dt {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.rows dd {
+  margin: 0;
+  font-weight: 700;
+}
+
+.sentence {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.stamp {
+  position: absolute;
+  right: 18px;
+  top: 60px;
+  width: 64px;
+  height: 64px;
+  display: grid;
+  place-items: center;
+  border: 3px solid var(--accent);
+  border-radius: 8px;
+  color: var(--accent);
+  font-weight: 900;
+  font-size: 18px;
+  transform: rotate(12deg);
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+/* ---------- 동물: 가챠 카드 ---------- */
+
+.animal {
+  padding: 28px 20px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.emoji {
+  font-size: 96px;
+  line-height: 1.1;
+  margin: 8px 0 12px;
+  filter: drop-shadow(0 8px 24px rgb(0 0 0 / 0.35));
+}
+
+.animalTitle {
+  margin: 10px 0 4px;
+  font-size: clamp(26px, 6vw, 34px);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+}
+
+.place {
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.globalTag {
+  margin-left: 6px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  font-size: 12px;
+}
+
+.comment {
+  margin: 0 0 8px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.rarityComment {
+  margin: 0;
+  color: var(--muted);
+}
+
+.badge {
+  display: inline-block;
+  padding: 4px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  color: #111;
+}
+
+.common {
+  background: var(--r-common, #9aa0ad);
+}
+.uncommon {
+  background: var(--r-uncommon, #51cf66);
+}
+.rare {
+  background: var(--r-rare, #4dabf7);
+}
+.legendary {
+  background: linear-gradient(135deg, #fff3bf, var(--r-legendary, #fcc419) 45%, #f08c00);
+  box-shadow: 0 0 18px rgb(252 196 25 / 0.6);
+}
+
+.glow_rare {
+  border-color: var(--r-rare, #4dabf7);
+  box-shadow: 0 0 0 1px var(--r-rare, #4dabf7), 0 0 40px rgb(77 171 247 / 0.3);
+}
+
+.glow_legendary {
+  border-color: var(--r-legendary, #fcc419);
+  box-shadow: 0 0 0 2px var(--r-legendary, #fcc419), 0 0 60px rgb(252 196 25 / 0.45);
+}
+
+.glow_legendary::before {
+  content: "";
+  position: absolute;
+  inset: -50%;
+  background: conic-gradient(from 0deg, transparent, rgb(252 196 25 / 0.14), transparent 30%);
+  animation: spin 6s linear infinite;
+  pointer-events: none;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+.human .subject,
+.human .humanTitle {
+  padding-right: 72px;
+}

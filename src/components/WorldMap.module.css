@@ -1,0 +1,122 @@
+.map {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.sphere {
+  fill: var(--map-ocean);
+  stroke: var(--border);
+  stroke-width: 1;
+}
+
+.land,
+.soft,
+.strong,
+.flash {
+  stroke: var(--map-stroke);
+  stroke-width: 0.5;
+  transition: fill 0.25s;
+}
+
+.land {
+  fill: var(--map-land);
+}
+
+.soft {
+  fill: var(--map-soft);
+}
+
+.strong {
+  fill: var(--map-strong);
+}
+
+.flash {
+  fill: var(--map-flash);
+  transition: none;
+}
+
+.dot {
+  fill: var(--pin);
+  stroke: #fff;
+  stroke-width: 2.5;
+}
+
+.pulse {
+  fill: var(--pin);
+  opacity: 0.35;
+  transform-origin: center;
+  transform-box: fill-box;
+  animation: pulse 1.8s ease-out infinite;
+}
+
+@keyframes pulse {
+  from {
+    transform: scale(0.4);
+    opacity: 0.5;
+  }
+  to {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+.label {
+  font-size: 26px;
+  font-weight: 700;
+  fill: var(--text);
+  paint-order: stroke;
+  stroke: var(--bg);
+  stroke-width: 5px;
+  stroke-linejoin: round;
+}
+
+.pin {
+  animation: drop 0.45s cubic-bezier(0.2, 1.4, 0.4, 1);
+}
+
+@keyframes drop {
+  from {
+    opacity: 0;
+    translate: 0 -24px;
+  }
+}
+
+/* 사람 페이지: 옛 지도 느낌 */
+.human {
+  --map-land: var(--human-land);
+  --map-stroke: var(--human-paper);
+  --map-soft: var(--human-soft);
+  --map-strong: var(--human-accent);
+  --map-flash: var(--human-flash);
+  --map-ocean: var(--human-sea);
+  --pin: var(--human-accent);
+}
+
+/* 동물 페이지: 가챠 느낌 */
+.animal {
+  --map-land: var(--animal-land);
+  --map-stroke: var(--animal-bg);
+  --map-soft: var(--animal-soft);
+  --map-strong: var(--animal-strong);
+  --map-flash: var(--animal-flash);
+  --map-ocean: var(--animal-sea);
+  --pin: var(--animal-pin);
+}
+
+/* 좁은 화면에서는 지도 안 라벨이 너무 작아지므로 캡션으로 대신 보여준다 */
+.caption {
+  display: none;
+  margin: 4px 0 2px;
+  text-align: center;
+  font-weight: 700;
+}
+
+@media (max-width: 560px) {
+  .label {
+    display: none;
+  }
+  .caption {
+    display: block;
+  }
+}

@@ -1,0 +1,77 @@
+/* 사람 페이지: 세계지도 + 인생 기록 카드 (옛 문서 느낌) */
+.theme-human {
+  --bg: #f3ebdd;
+  --surface: #fbf6ec;
+  --text: #2a2119;
+  --muted: #7a6a58;
+  --border: #dccdb4;
+  --accent: #9c3d24;
+  --accent-text: #fff8ef;
+  --shadow: 0 1px 2px rgb(60 40 20 / 0.06), 0 10px 30px rgb(60 40 20 / 0.08);
+
+  --human-paper: #f3ebdd;
+  --human-land: #d9c8a9;
+  --human-soft: #e2b48f;
+  --human-accent: #9c3d24;
+  --human-flash: #d9822b;
+  --human-sea: #e9dfcc;
+
+  background: var(--bg);
+  color: var(--text);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-human {
+    --bg: #1d1814;
+    --surface: #26201a;
+    --text: #efe4d3;
+    --muted: #a89782;
+    --border: #3a3027;
+    --accent: #e0835f;
+    --accent-text: #1d1814;
+    --shadow: 0 10px 30px rgb(0 0 0 / 0.35);
+
+    --human-paper: #1d1814;
+    --human-land: #4a3f33;
+    --human-soft: #7a5440;
+    --human-accent: #e0835f;
+    --human-flash: #f2b36b;
+    --human-sea: #221c17;
+  }
+}
+
+/* 동물 페이지: 지도 + 동물·등급 배지 (가챠 느낌), 항상 어두운 무대 */
+.theme-animal {
+  --bg: #15102b;
+  --surface: #1f1840;
+  --text: #f3efff;
+  --muted: #a79fcc;
+  --border: #342a63;
+  --accent: #ff5fa2;
+  --accent-text: #1a0f24;
+  --shadow: 0 10px 40px rgb(0 0 0 / 0.4);
+
+  --animal-bg: #15102b;
+  --animal-land: #3a3070;
+  --animal-soft: #5d4fb0;
+  --animal-strong: #ff5fa2;
+  --animal-flash: #ffd43b;
+  --animal-sea: #1a1436;
+  --animal-pin: #ffd43b;
+
+  --r-common: #9aa0ad;
+  --r-uncommon: #51cf66;
+  --r-rare: #4dabf7;
+  --r-legendary: #fcc419;
+
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgb(255 95 162 / 0.18), transparent),
+    radial-gradient(ellipse 60% 40% at 90% 30%, rgb(77 171 247 / 0.12), transparent),
+    var(--bg);
+  color: var(--text);
+}
+
+.page-main {
+  flex: 1;
+  padding: 32px 0 64px;
+}

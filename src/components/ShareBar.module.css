@@ -1,0 +1,9 @@
+.bar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.bar :global(.btn) {
+  background: var(--surface);
+}

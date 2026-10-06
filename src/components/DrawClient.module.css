@@ -1,0 +1,220 @@
+.wrap {
+  display: grid;
+  gap: 16px;
+}
+
+.tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  padding: 6px;
+  border-radius: 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.tab,
+.tabActive {
+  border: 0;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: 700;
+  font-size: 16px;
+  background: transparent;
+  color: var(--muted);
+}
+
+.tabActive {
+  background: var(--accent);
+  color: var(--accent-text);
+}
+
+.mapCard {
+  position: relative;
+  padding: 8px;
+  overflow: hidden;
+}
+
+.rollLabel {
+  position: absolute;
+  left: 50%;
+  bottom: 14px;
+  translate: -50% 0;
+  padding: 6px 16px;
+  border-radius: 999px;
+  background: var(--text);
+  color: var(--bg);
+  font-weight: 900;
+  font-size: 18px;
+  white-space: nowrap;
+  box-shadow: var(--shadow);
+}
+
+.controls {
+  display: grid;
+  gap: 12px;
+  padding: 20px;
+}
+
+.nameField {
+  display: grid;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.nameField input {
+  font: inherit;
+  font-weight: 400;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+}
+
+.drawBtn {
+  font-size: 18px;
+  padding: 16px;
+}
+
+.price {
+  margin: 0;
+  text-align: center;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.price b {
+  color: var(--accent);
+}
+
+.error {
+  margin: 0;
+  text-align: center;
+  color: var(--danger);
+  font-weight: 700;
+}
+
+.result {
+  position: relative;
+  display: grid;
+  gap: 12px;
+  animation: rise 0.5s cubic-bezier(0.2, 1.2, 0.4, 1);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.98);
+  }
+}
+
+/* 동물: 실루엣 단계 */
+.silhouette {
+  text-align: center;
+  padding: 24px 0 8px;
+  font-weight: 700;
+}
+
+.silhouette p {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.silEmoji {
+  font-size: 110px;
+  line-height: 1.1;
+  filter: brightness(0);
+  animation: wobble 0.5s ease-in-out infinite alternate;
+}
+
+.sil_rare .silEmoji {
+  filter: brightness(0) drop-shadow(0 0 18px #4dabf7) drop-shadow(0 0 4px #4dabf7);
+}
+
+.sil_legendary .silEmoji {
+  filter: brightness(0) drop-shadow(0 0 28px #fcc419) drop-shadow(0 0 6px #fff3bf);
+  animation: wobble 0.25s ease-in-out infinite alternate;
+}
+
+@keyframes wobble {
+  from {
+    transform: rotate(-4deg) scale(0.96);
+  }
+  to {
+    transform: rotate(4deg) scale(1.04);
+  }
+}
+
+.confetti {
+  position: absolute;
+  inset: -40px 0 auto;
+  height: 0;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.confetti i {
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 14px;
+  border-radius: 2px;
+  animation: fall linear forwards;
+}
+
+@keyframes fall {
+  from {
+    transform: translateY(0) rotate(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(520px) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+.dialog {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  padding: 24px;
+  max-width: min(360px, calc(100vw - 32px));
+  text-align: center;
+}
+
+.dialog::backdrop {
+  background: rgb(0 0 0 / 0.5);
+}
+
+.dialog h3 {
+  margin-top: 0;
+}
+
+.dialogActions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.dex,
+.dexNew {
+  display: block;
+  text-align: center;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 15px;
+  text-decoration: none;
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.dexNew {
+  color: #1a0f24;
+  border-color: transparent;
+  background: linear-gradient(90deg, #ffd43b, #ff5fa2);
+  animation: rise 0.5s 0.2s both cubic-bezier(0.2, 1.2, 0.4, 1);
+}

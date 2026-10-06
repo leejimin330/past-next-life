@@ -1,0 +1,168 @@
+.wrap {
+  display: grid;
+  gap: 10px;
+}
+
+.toggle {
+  font-size: 17px;
+  padding: 15px;
+}
+
+.spinner {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid currentColor;
+  border-right-color: transparent;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+.error {
+  margin: 0;
+  text-align: center;
+  color: var(--danger);
+  font-weight: 700;
+}
+
+.panel {
+  padding: 24px 20px;
+  display: grid;
+  gap: 20px;
+  animation: open 0.4s ease-out;
+}
+
+@keyframes open {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+.head h3 {
+  margin: 4px 0 2px;
+  font-size: clamp(22px, 5vw, 28px);
+  letter-spacing: -0.02em;
+  font-weight: 900;
+}
+
+.head p {
+  margin: 0;
+}
+
+.kicker {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+}
+
+.sample {
+  margin-left: 8px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  border: 1px dashed var(--muted);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0;
+}
+
+.timeline li {
+  display: grid;
+  grid-template-columns: 36px 1fr;
+  gap: 12px;
+  position: relative;
+  padding-bottom: 18px;
+}
+
+.timeline li:not(:last-child)::before {
+  content: "";
+  position: absolute;
+  left: 17px;
+  top: 36px;
+  bottom: 0;
+  width: 2px;
+  background: var(--border);
+}
+
+.dot {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  font-size: 18px;
+}
+
+.stageHead {
+  margin: 6px 0 4px;
+  font-size: 15px;
+}
+
+.stageHead span {
+  font-size: 13px;
+  margin-left: 4px;
+}
+
+.stageText {
+  margin: 0;
+  line-height: 1.75;
+}
+
+:global(.theme-human) .stageText {
+  font-family: var(--font-serif), serif;
+}
+
+.facts {
+  padding: 14px 16px;
+  border-radius: 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+}
+
+.facts ul {
+  margin: 6px 0 0;
+  padding-left: 18px;
+}
+
+.facts li + li {
+  margin-top: 4px;
+}
+
+.epilogue {
+  margin: 0;
+  padding: 14px 0 0;
+  border-top: 1px dashed var(--border);
+  font-weight: 700;
+  font-size: 17px;
+  text-align: center;
+}
+
+.refs {
+  margin: 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.refs a {
+  margin-right: 8px;
+}
+
+.fold {
+  justify-self: center;
+  padding: 8px 20px;
+}

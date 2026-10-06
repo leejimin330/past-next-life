@@ -1,0 +1,44 @@
+.main {
+  padding-top: 28px;
+}
+
+.inner {
+  max-width: 760px;
+  display: grid;
+  gap: 20px;
+}
+
+.head {
+  text-align: center;
+}
+
+.head h1 {
+  margin: 0 0 6px;
+  font-size: clamp(28px, 6vw, 40px);
+  letter-spacing: -0.03em;
+  font-weight: 900;
+}
+
+.head p {
+  margin: 0;
+}
+
+:global(.theme-human) .head h1 {
+  font-family: var(--font-serif), serif;
+}
+
+.cross {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  border-radius: var(--radius);
+  border: 1px dashed var(--border);
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--muted);
+}
+
+.cross:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}

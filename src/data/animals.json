@@ -1,0 +1,2438 @@
+[
+ {
+  "id": "mosquito",
+  "name_ko": "모기",
+  "name_en": "Mosquito",
+  "region": "global",
+  "rarity": "common",
+  "emoji": "🦟",
+  "comment": "인류 최대의 적. 여름밤 귓가의 주인공",
+  "countries": []
+ },
+ {
+  "id": "cockroach",
+  "name_ko": "바퀴벌레",
+  "name_en": "Cockroach",
+  "region": "global",
+  "rarity": "common",
+  "emoji": "🪳",
+  "comment": "공룡보다 먼저 왔고 인류보다 오래 남을 예정",
+  "countries": []
+ },
+ {
+  "id": "housefly",
+  "name_ko": "집파리",
+  "name_en": "Housefly",
+  "region": "global",
+  "rarity": "common",
+  "emoji": "🪰",
+  "comment": "반찬 위 착륙 전문",
+  "countries": []
+ },
+ {
+  "id": "ant",
+  "name_ko": "개미",
+  "name_en": "Ant",
+  "region": "global",
+  "rarity": "common",
+  "emoji": "🐜",
+  "comment": "평생 야근하는 성실한 일꾼",
+  "countries": []
+ },
+ {
+  "id": "mayfly",
+  "name_ko": "하루살이",
+  "name_en": "Mayfly",
+  "region": "global",
+  "rarity": "uncommon",
+  "emoji": "🪽",
+  "comment": "인생 한 줄 요약: 하루",
+  "countries": []
+ },
+ {
+  "id": "earthworm",
+  "name_ko": "지렁이",
+  "name_en": "Earthworm",
+  "region": "global",
+  "rarity": "common",
+  "emoji": "🪱",
+  "comment": "비 오는 날 보도블록 탐험가",
+  "countries": []
+ },
+ {
+  "id": "pigeon",
+  "name_ko": "집비둘기",
+  "name_en": "Rock pigeon",
+  "region": "global",
+  "rarity": "common",
+  "emoji": "🐦",
+  "comment": "광장의 실질적 지배자",
+  "countries": []
+ },
+ {
+  "id": "brown_rat",
+  "name_ko": "시궁쥐",
+  "name_en": "Brown rat",
+  "region": "global",
+  "rarity": "uncommon",
+  "emoji": "🐀",
+  "comment": "요리 실력은 미확인",
+  "countries": []
+ },
+ {
+  "id": "ladybug",
+  "name_ko": "무당벌레",
+  "name_en": "Ladybug",
+  "region": "global",
+  "rarity": "uncommon",
+  "emoji": "🐞",
+  "comment": "행운의 상징, 진딧물에겐 공포의 상징",
+  "countries": []
+ },
+ {
+  "id": "house_cat",
+  "name_ko": "집고양이",
+  "name_en": "House cat",
+  "region": "global",
+  "rarity": "rare",
+  "emoji": "🐈",
+  "comment": "집사를 거느린 상류층",
+  "countries": []
+ },
+ {
+  "id": "dog",
+  "name_ko": "개",
+  "name_en": "Dog",
+  "region": "global",
+  "rarity": "rare",
+  "emoji": "🐕",
+  "comment": "산책이 인생의 전부",
+  "countries": []
+ },
+ {
+  "id": "chicken",
+  "name_ko": "닭",
+  "name_en": "Chicken",
+  "region": "global",
+  "rarity": "uncommon",
+  "emoji": "🐓",
+  "comment": "아침마다 알람 담당",
+  "countries": []
+ },
+ {
+  "id": "tardigrade",
+  "name_ko": "완보동물(물곰)",
+  "name_en": "Tardigrade",
+  "region": "global",
+  "rarity": "legendary",
+  "emoji": "🐻",
+  "comment": "우주 진공에서도 살아남는 지구 최강 생명체",
+  "countries": []
+ },
+ {
+  "id": "tiger_beetle",
+  "name_ko": "길앞잡이",
+  "name_en": "Tiger beetle",
+  "region": "east_asia",
+  "rarity": "uncommon",
+  "emoji": "🪲",
+  "comment": "등산객 앞에서 길 안내하듯 계속 날아가는 딱정벌레",
+  "countries": [
+   "KOR",
+   "JPN",
+   "CHN"
+  ]
+ },
+ {
+  "id": "giant_hornet",
+  "name_ko": "장수말벌",
+  "name_en": "Asian giant hornet",
+  "region": "east_asia",
+  "rarity": "rare",
+  "emoji": "🐝",
+  "comment": "벌 세계의 최종 보스",
+  "countries": [
+   "KOR",
+   "JPN",
+   "CHN"
+  ]
+ },
+ {
+  "id": "water_deer",
+  "name_ko": "고라니",
+  "name_en": "Water deer",
+  "region": "east_asia",
+  "rarity": "uncommon",
+  "emoji": "🦌",
+  "comment": "세계적으론 희귀종, 한국 도로에선 단골",
+  "countries": [
+   "KOR",
+   "CHN"
+  ]
+ },
+ {
+  "id": "magpie",
+  "name_ko": "까치",
+  "name_en": "Oriental magpie",
+  "region": "east_asia",
+  "rarity": "common",
+  "emoji": "🐦‍⬛",
+  "comment": "반가운 손님 알림 서비스",
+  "countries": [
+   "KOR",
+   "CHN",
+   "JPN"
+  ]
+ },
+ {
+  "id": "goral",
+  "name_ko": "산양",
+  "name_en": "Long-tailed goral",
+  "region": "east_asia",
+  "rarity": "rare",
+  "emoji": "🐐",
+  "comment": "절벽 위 암벽등반가",
+  "countries": [
+   "KOR",
+   "CHN",
+   "RUS"
+  ]
+ },
+ {
+  "id": "eurasian_otter",
+  "name_ko": "수달",
+  "name_en": "Eurasian otter",
+  "region": "east_asia",
+  "rarity": "uncommon",
+  "emoji": "🦦",
+  "comment": "손잡고 자는 귀여움",
+  "countries": [
+   "KOR",
+   "JPN",
+   "CHN"
+  ]
+ },
+ {
+  "id": "red_crowned_crane",
+  "name_ko": "두루미",
+  "name_en": "Red-crowned crane",
+  "region": "east_asia",
+  "rarity": "rare",
+  "emoji": "🕊️",
+  "comment": "천 년을 산다는 전설의 새",
+  "countries": [
+   "KOR",
+   "JPN",
+   "CHN"
+  ]
+ },
+ {
+  "id": "raccoon_dog",
+  "name_ko": "너구리",
+  "name_en": "Raccoon dog",
+  "region": "east_asia",
+  "rarity": "common",
+  "emoji": "🦝",
+  "comment": "라면 아님",
+  "countries": [
+   "KOR",
+   "JPN",
+   "CHN"
+  ]
+ },
+ {
+  "id": "japanese_macaque",
+  "name_ko": "일본원숭이",
+  "name_en": "Japanese macaque",
+  "region": "east_asia",
+  "rarity": "uncommon",
+  "emoji": "🐒",
+  "comment": "눈 오는 날 온천욕하는 원숭이",
+  "countries": [
+   "JPN"
+  ]
+ },
+ {
+  "id": "giant_panda",
+  "name_ko": "자이언트판다",
+  "name_en": "Giant panda",
+  "region": "east_asia",
+  "rarity": "legendary",
+  "emoji": "🐼",
+  "comment": "하루 종일 대나무만 먹는 국보",
+  "countries": [
+   "CHN"
+  ]
+ },
+ {
+  "id": "red_panda",
+  "name_ko": "레서판다",
+  "name_en": "Red panda",
+  "region": "east_asia",
+  "rarity": "rare",
+  "emoji": "🦊",
+  "comment": "원조 판다는 사실 이쪽",
+  "countries": [
+   "CHN"
+  ]
+ },
+ {
+  "id": "orangutan",
+  "name_ko": "오랑우탄",
+  "name_en": "Orangutan",
+  "region": "southeast_asia",
+  "rarity": "rare",
+  "emoji": "🦧",
+  "comment": "숲의 사람이라는 뜻",
+  "countries": [
+   "IDN",
+   "MYS"
+  ]
+ },
+ {
+  "id": "komodo_dragon",
+  "name_ko": "코모도왕도마뱀",
+  "name_en": "Komodo dragon",
+  "region": "southeast_asia",
+  "rarity": "legendary",
+  "emoji": "🦎",
+  "comment": "현존 최대 도마뱀",
+  "countries": [
+   "IDN"
+  ]
+ },
+ {
+  "id": "philippine_tarsier",
+  "name_ko": "필리핀안경원숭이",
+  "name_en": "Philippine tarsier",
+  "region": "southeast_asia",
+  "rarity": "rare",
+  "emoji": "🐒",
+  "comment": "눈알 하나가 뇌만 함",
+  "countries": [
+   "PHL"
+  ]
+ },
+ {
+  "id": "proboscis_monkey",
+  "name_ko": "긴코원숭이",
+  "name_en": "Proboscis monkey",
+  "region": "southeast_asia",
+  "rarity": "uncommon",
+  "emoji": "🐵",
+  "comment": "코가 클수록 인기남",
+  "countries": [
+   "MYS",
+   "IDN",
+   "BRN"
+  ]
+ },
+ {
+  "id": "malayan_tapir",
+  "name_ko": "말레이맥",
+  "name_en": "Malayan tapir",
+  "region": "southeast_asia",
+  "rarity": "uncommon",
+  "emoji": "🐖",
+  "comment": "흑백 판다색 코끼리돼지",
+  "countries": [
+   "MYS",
+   "THA",
+   "IDN"
+  ]
+ },
+ {
+  "id": "flying_dragon",
+  "name_ko": "날도마뱀",
+  "name_en": "Flying dragon",
+  "region": "southeast_asia",
+  "rarity": "uncommon",
+  "emoji": "🦎",
+  "comment": "도마뱀인데 활공함",
+  "countries": [
+   "MYS",
+   "IDN",
+   "THA"
+  ]
+ },
+ {
+  "id": "reticulated_python",
+  "name_ko": "그물무늬비단뱀",
+  "name_en": "Reticulated python",
+  "region": "southeast_asia",
+  "rarity": "uncommon",
+  "emoji": "🐍",
+  "comment": "세계에서 가장 긴 뱀",
+  "countries": [
+   "IDN",
+   "MYS",
+   "THA",
+   "VNM"
+  ]
+ },
+ {
+  "id": "civet",
+  "name_ko": "사향고양이",
+  "name_en": "Asian palm civet",
+  "region": "southeast_asia",
+  "rarity": "common",
+  "emoji": "🐈‍⬛",
+  "comment": "커피 원두 가공 전문",
+  "countries": [
+   "IDN",
+   "VNM",
+   "PHL"
+  ]
+ },
+ {
+  "id": "archerfish",
+  "name_ko": "물총고기",
+  "name_en": "Archerfish",
+  "region": "southeast_asia",
+  "rarity": "common",
+  "emoji": "🐟",
+  "comment": "물총으로 벌레 사냥하는 스나이퍼",
+  "countries": [
+   "THA",
+   "MYS",
+   "IDN"
+  ]
+ },
+ {
+  "id": "bengal_tiger",
+  "name_ko": "벵골호랑이",
+  "name_en": "Bengal tiger",
+  "region": "south_asia",
+  "rarity": "legendary",
+  "emoji": "🐅",
+  "comment": "정글의 왕",
+  "countries": [
+   "IND",
+   "BGD",
+   "NPL",
+   "BTN"
+  ]
+ },
+ {
+  "id": "indian_elephant",
+  "name_ko": "인도코끼리",
+  "name_en": "Indian elephant",
+  "region": "south_asia",
+  "rarity": "rare",
+  "emoji": "🐘",
+  "comment": "사원 행사 단골 VIP",
+  "countries": [
+   "IND",
+   "LKA"
+  ]
+ },
+ {
+  "id": "indian_rhino",
+  "name_ko": "인도코뿔소",
+  "name_en": "Indian rhinoceros",
+  "region": "south_asia",
+  "rarity": "rare",
+  "emoji": "🦏",
+  "comment": "갑옷 입은 탱크",
+  "countries": [
+   "IND",
+   "NPL"
+  ]
+ },
+ {
+  "id": "peafowl",
+  "name_ko": "인도공작",
+  "name_en": "Indian peafowl",
+  "region": "south_asia",
+  "rarity": "uncommon",
+  "emoji": "🦚",
+  "comment": "꼬리 하나로 인생 역전",
+  "countries": [
+   "IND",
+   "LKA"
+  ]
+ },
+ {
+  "id": "king_cobra",
+  "name_ko": "킹코브라",
+  "name_en": "King cobra",
+  "region": "south_asia",
+  "rarity": "rare",
+  "emoji": "🐍",
+  "comment": "뱀을 잡아먹는 뱀",
+  "countries": [
+   "IND",
+   "THA",
+   "MYS"
+  ]
+ },
+ {
+  "id": "sloth_bear",
+  "name_ko": "느림보곰",
+  "name_en": "Sloth bear",
+  "region": "south_asia",
+  "rarity": "uncommon",
+  "emoji": "🐻",
+  "comment": "흰개미를 빨대처럼 흡입",
+  "countries": [
+   "IND",
+   "LKA"
+  ]
+ },
+ {
+  "id": "gharial",
+  "name_ko": "가비알",
+  "name_en": "Gharial",
+  "region": "south_asia",
+  "rarity": "rare",
+  "emoji": "🐊",
+  "comment": "주둥이가 젓가락 같은 악어",
+  "countries": [
+   "IND",
+   "NPL"
+  ]
+ },
+ {
+  "id": "yak",
+  "name_ko": "야크",
+  "name_en": "Yak",
+  "region": "south_asia",
+  "rarity": "common",
+  "emoji": "🐃",
+  "comment": "히말라야 택배기사",
+  "countries": [
+   "NPL",
+   "BTN",
+   "CHN"
+  ]
+ },
+ {
+  "id": "snow_leopard",
+  "name_ko": "눈표범",
+  "name_en": "Snow leopard",
+  "region": "south_asia",
+  "rarity": "legendary",
+  "emoji": "🐆",
+  "comment": "산의 유령",
+  "countries": [
+   "NPL",
+   "BTN",
+   "IND",
+   "MNG"
+  ]
+ },
+ {
+  "id": "dromedary",
+  "name_ko": "단봉낙타",
+  "name_en": "Dromedary",
+  "region": "middle_east",
+  "rarity": "common",
+  "emoji": "🐪",
+  "comment": "사막의 SUV",
+  "countries": [
+   "SAU",
+   "ARE",
+   "OMN"
+  ]
+ },
+ {
+  "id": "bactrian_camel",
+  "name_ko": "쌍봉낙타",
+  "name_en": "Bactrian camel",
+  "region": "middle_east",
+  "rarity": "uncommon",
+  "emoji": "🐫",
+  "comment": "혹 두 개 프리미엄 모델",
+  "countries": [
+   "MNG",
+   "KAZ",
+   "CHN"
+  ]
+ },
+ {
+  "id": "arabian_oryx",
+  "name_ko": "아라비아오릭스",
+  "name_en": "Arabian oryx",
+  "region": "middle_east",
+  "rarity": "rare",
+  "emoji": "🦌",
+  "comment": "유니콘 전설의 원조 후보",
+  "countries": [
+   "OMN",
+   "SAU",
+   "ARE",
+   "JOR"
+  ]
+ },
+ {
+  "id": "saiga",
+  "name_ko": "사이가영양",
+  "name_en": "Saiga antelope",
+  "region": "middle_east",
+  "rarity": "rare",
+  "emoji": "🐐",
+  "comment": "코가 너무 커서 표정이 억울함",
+  "countries": [
+   "KAZ",
+   "UZB",
+   "MNG"
+  ]
+ },
+ {
+  "id": "deathstalker",
+  "name_ko": "데스스토커전갈",
+  "name_en": "Deathstalker scorpion",
+  "region": "middle_east",
+  "rarity": "uncommon",
+  "emoji": "🦂",
+  "comment": "이름부터 이미 위험",
+  "countries": [
+   "JOR",
+   "SAU"
+  ]
+ },
+ {
+  "id": "camel_spider",
+  "name_ko": "낙타거미",
+  "name_en": "Camel spider",
+  "region": "middle_east",
+  "rarity": "common",
+  "emoji": "🕷️",
+  "comment": "거미도 전갈도 아닌 무언가",
+  "countries": [
+   "SAU",
+   "IRN"
+  ]
+ },
+ {
+  "id": "caracal",
+  "name_ko": "카라칼",
+  "name_en": "Caracal",
+  "region": "middle_east",
+  "rarity": "uncommon",
+  "emoji": "🐈",
+  "comment": "귀에 털 달린 점프왕 고양이",
+  "countries": [
+   "IRN",
+   "SAU",
+   "OMN"
+  ]
+ },
+ {
+  "id": "przewalski_horse",
+  "name_ko": "프르제발스키말",
+  "name_en": "Przewalski's horse",
+  "region": "middle_east",
+  "rarity": "rare",
+  "emoji": "🐎",
+  "comment": "마지막 야생말",
+  "countries": [
+   "MNG"
+  ]
+ },
+ {
+  "id": "hedgehog",
+  "name_ko": "유럽고슴도치",
+  "name_en": "European hedgehog",
+  "region": "europe",
+  "rarity": "common",
+  "emoji": "🦔",
+  "comment": "공처럼 말리는 게 특기",
+  "countries": [
+   "GBR",
+   "DEU",
+   "FRA"
+  ]
+ },
+ {
+  "id": "red_fox",
+  "name_ko": "붉은여우",
+  "name_en": "Red fox",
+  "region": "europe",
+  "rarity": "common",
+  "emoji": "🦊",
+  "comment": "동화 속 단골 악역",
+  "countries": [
+   "GBR",
+   "DEU",
+   "FRA",
+   "ESP"
+  ]
+ },
+ {
+  "id": "white_stork",
+  "name_ko": "황새",
+  "name_en": "White stork",
+  "region": "europe",
+  "rarity": "uncommon",
+  "emoji": "🪿",
+  "comment": "아기 배달 담당",
+  "countries": [
+   "POL",
+   "DEU",
+   "ESP"
+  ]
+ },
+ {
+  "id": "alpine_marmot",
+  "name_ko": "알프스마멋",
+  "name_en": "Alpine marmot",
+  "region": "europe",
+  "rarity": "uncommon",
+  "emoji": "🐿️",
+  "comment": "휘파람 부는 경비원",
+  "countries": [
+   "CHE",
+   "FRA",
+   "ITA"
+  ]
+ },
+ {
+  "id": "wisent",
+  "name_ko": "유럽들소",
+  "name_en": "European bison",
+  "region": "europe",
+  "rarity": "rare",
+  "emoji": "🦬",
+  "comment": "유럽 최대 육상동물",
+  "countries": [
+   "POL"
+  ]
+ },
+ {
+  "id": "stag_beetle",
+  "name_ko": "유럽사슴벌레",
+  "name_en": "European stag beetle",
+  "region": "europe",
+  "rarity": "uncommon",
+  "emoji": "🪲",
+  "comment": "턱이 몸의 절반",
+  "countries": [
+   "GBR",
+   "DEU",
+   "FRA"
+  ]
+ },
+ {
+  "id": "olm",
+  "name_ko": "올름(동굴도롱뇽)",
+  "name_en": "Olm",
+  "region": "europe",
+  "rarity": "legendary",
+  "emoji": "🦎",
+  "comment": "눈 없이 동굴에서 100년 사는 도롱뇽",
+  "countries": [
+   "SVN"
+  ]
+ },
+ {
+  "id": "puffin",
+  "name_ko": "코뿔바다오리(퍼핀)",
+  "name_en": "Atlantic puffin",
+  "region": "europe",
+  "rarity": "uncommon",
+  "emoji": "🐧",
+  "comment": "바다의 광대",
+  "countries": [
+   "ISL",
+   "NOR",
+   "GBR"
+  ]
+ },
+ {
+  "id": "reindeer",
+  "name_ko": "순록",
+  "name_en": "Reindeer",
+  "region": "europe",
+  "rarity": "uncommon",
+  "emoji": "🦌",
+  "comment": "크리스마스 시즌 계약직",
+  "countries": [
+   "NOR",
+   "SWE",
+   "FIN"
+  ]
+ },
+ {
+  "id": "burgundy_snail",
+  "name_ko": "부르고뉴달팽이",
+  "name_en": "Burgundy snail",
+  "region": "europe",
+  "rarity": "common",
+  "emoji": "🐌",
+  "comment": "에스카르고… 조심",
+  "countries": [
+   "FRA"
+  ]
+ },
+ {
+  "id": "siberian_tiger",
+  "name_ko": "시베리아호랑이",
+  "name_en": "Siberian tiger",
+  "region": "russia",
+  "rarity": "legendary",
+  "emoji": "🐯",
+  "comment": "세상에서 가장 큰 고양이",
+  "countries": [
+   "RUS"
+  ]
+ },
+ {
+  "id": "brown_bear",
+  "name_ko": "불곰",
+  "name_en": "Brown bear",
+  "region": "russia",
+  "rarity": "uncommon",
+  "emoji": "🐻",
+  "comment": "러시아 하면 이것",
+  "countries": [
+   "RUS"
+  ]
+ },
+ {
+  "id": "baikal_seal",
+  "name_ko": "바이칼물범",
+  "name_en": "Baikal seal",
+  "region": "russia",
+  "rarity": "rare",
+  "emoji": "🦭",
+  "comment": "바다가 아닌 호수에 사는 물범",
+  "countries": [
+   "RUS"
+  ]
+ },
+ {
+  "id": "sable",
+  "name_ko": "검은담비",
+  "name_en": "Sable",
+  "region": "russia",
+  "rarity": "uncommon",
+  "emoji": "🦡",
+  "comment": "털 한 올이 금값",
+  "countries": [
+   "RUS"
+  ]
+ },
+ {
+  "id": "gray_wolf",
+  "name_ko": "회색늑대",
+  "name_en": "Gray wolf",
+  "region": "russia",
+  "rarity": "uncommon",
+  "emoji": "🐺",
+  "comment": "무리 생활 만렙",
+  "countries": [
+   "RUS"
+  ]
+ },
+ {
+  "id": "musk_deer",
+  "name_ko": "사향노루",
+  "name_en": "Siberian musk deer",
+  "region": "russia",
+  "rarity": "rare",
+  "emoji": "🦌",
+  "comment": "송곳니 난 뱀파이어 사슴",
+  "countries": [
+   "RUS",
+   "MNG"
+  ]
+ },
+ {
+  "id": "fennec_fox",
+  "name_ko": "페넥여우(사막여우)",
+  "name_en": "Fennec fox",
+  "region": "north_africa",
+  "rarity": "rare",
+  "emoji": "🦊",
+  "comment": "귀가 얼굴보다 큼",
+  "countries": [
+   "DZA",
+   "TUN",
+   "MAR",
+   "EGY"
+  ]
+ },
+ {
+  "id": "scarab",
+  "name_ko": "쇠똥구리(스카라브)",
+  "name_en": "Scarab beetle",
+  "region": "north_africa",
+  "rarity": "common",
+  "emoji": "🪲",
+  "comment": "고대 이집트의 신성한 똥 굴리기 장인",
+  "countries": [
+   "EGY"
+  ]
+ },
+ {
+  "id": "desert_locust",
+  "name_ko": "사막메뚜기",
+  "name_en": "Desert locust",
+  "region": "north_africa",
+  "rarity": "common",
+  "emoji": "🦗",
+  "comment": "혼자면 메뚜기, 떼로 오면 재앙",
+  "countries": [
+   "EGY",
+   "LBY"
+  ]
+ },
+ {
+  "id": "barbary_macaque",
+  "name_ko": "바르바리마카크",
+  "name_en": "Barbary macaque",
+  "region": "north_africa",
+  "rarity": "uncommon",
+  "emoji": "🐒",
+  "comment": "아프리카 유일의 꼬리 없는 원숭이",
+  "countries": [
+   "MAR",
+   "DZA"
+  ]
+ },
+ {
+  "id": "horned_viper",
+  "name_ko": "뿔살무사",
+  "name_en": "Horned viper",
+  "region": "north_africa",
+  "rarity": "uncommon",
+  "emoji": "🐍",
+  "comment": "눈 위에 뿔 달린 뱀",
+  "countries": [
+   "EGY",
+   "LBY"
+  ]
+ },
+ {
+  "id": "jerboa",
+  "name_ko": "사막뛰는쥐(저보아)",
+  "name_en": "Jerboa",
+  "region": "north_africa",
+  "rarity": "uncommon",
+  "emoji": "🐭",
+  "comment": "캥거루 코스프레하는 쥐",
+  "countries": [
+   "EGY",
+   "LBY",
+   "DZA"
+  ]
+ },
+ {
+  "id": "african_elephant",
+  "name_ko": "아프리카코끼리",
+  "name_en": "African elephant",
+  "region": "sub_saharan",
+  "rarity": "rare",
+  "emoji": "🐘",
+  "comment": "현존 최대 육상동물",
+  "countries": [
+   "KEN",
+   "TZA",
+   "BWA",
+   "ZAF"
+  ]
+ },
+ {
+  "id": "lion",
+  "name_ko": "사자",
+  "name_en": "Lion",
+  "region": "sub_saharan",
+  "rarity": "rare",
+  "emoji": "🦁",
+  "comment": "하루 20시간 자는 왕",
+  "countries": [
+   "KEN",
+   "TZA",
+   "ZAF",
+   "BWA"
+  ]
+ },
+ {
+  "id": "giraffe",
+  "name_ko": "기린",
+  "name_en": "Giraffe",
+  "region": "sub_saharan",
+  "rarity": "uncommon",
+  "emoji": "🦒",
+  "comment": "목 길이 = 인생",
+  "countries": [
+   "KEN",
+   "TZA",
+   "ZAF"
+  ]
+ },
+ {
+  "id": "hippo",
+  "name_ko": "하마",
+  "name_en": "Hippopotamus",
+  "region": "sub_saharan",
+  "rarity": "uncommon",
+  "emoji": "🦛",
+  "comment": "귀여운 얼굴의 최강 전투력",
+  "countries": [
+   "TZA",
+   "UGA",
+   "ZAF"
+  ]
+ },
+ {
+  "id": "cheetah",
+  "name_ko": "치타",
+  "name_en": "Cheetah",
+  "region": "sub_saharan",
+  "rarity": "rare",
+  "emoji": "🐆",
+  "comment": "육상 최고속, 체력은 최저",
+  "countries": [
+   "NAM",
+   "BWA",
+   "KEN"
+  ]
+ },
+ {
+  "id": "mountain_gorilla",
+  "name_ko": "마운틴고릴라",
+  "name_en": "Mountain gorilla",
+  "region": "sub_saharan",
+  "rarity": "legendary",
+  "emoji": "🦍",
+  "comment": "숲의 근육 대장",
+  "countries": [
+   "RWA",
+   "UGA",
+   "COD"
+  ]
+ },
+ {
+  "id": "chimpanzee",
+  "name_ko": "침팬지",
+  "name_en": "Chimpanzee",
+  "region": "sub_saharan",
+  "rarity": "rare",
+  "emoji": "🐒",
+  "comment": "인류와 DNA 98% 공유",
+  "countries": [
+   "COD",
+   "UGA",
+   "TZA"
+  ]
+ },
+ {
+  "id": "meerkat",
+  "name_ko": "미어캣",
+  "name_en": "Meerkat",
+  "region": "sub_saharan",
+  "rarity": "uncommon",
+  "emoji": "🐿️",
+  "comment": "서서 망보는 경비",
+  "countries": [
+   "ZAF",
+   "NAM",
+   "BWA"
+  ]
+ },
+ {
+  "id": "naked_mole_rat",
+  "name_ko": "벌거숭이두더지쥐",
+  "name_en": "Naked mole-rat",
+  "region": "sub_saharan",
+  "rarity": "rare",
+  "emoji": "🐁",
+  "comment": "늙지도 아프지도 않는 핑크 소시지",
+  "countries": [
+   "KEN",
+   "ETH"
+  ]
+ },
+ {
+  "id": "honey_badger",
+  "name_ko": "벌꿀오소리",
+  "name_en": "Honey badger",
+  "region": "sub_saharan",
+  "rarity": "uncommon",
+  "emoji": "🦡",
+  "comment": "겁이라는 개념이 없음",
+  "countries": [
+   "ZAF",
+   "KEN",
+   "TZA"
+  ]
+ },
+ {
+  "id": "wildebeest",
+  "name_ko": "누",
+  "name_en": "Wildebeest",
+  "region": "sub_saharan",
+  "rarity": "common",
+  "emoji": "🐃",
+  "comment": "대이동의 주인공",
+  "countries": [
+   "KEN",
+   "TZA"
+  ]
+ },
+ {
+  "id": "tsetse_fly",
+  "name_ko": "체체파리",
+  "name_en": "Tsetse fly",
+  "region": "sub_saharan",
+  "rarity": "common",
+  "emoji": "🪰",
+  "comment": "작지만 무서운 녀석",
+  "countries": [
+   "KEN",
+   "TZA",
+   "COD"
+  ]
+ },
+ {
+  "id": "okapi",
+  "name_ko": "오카피",
+  "name_en": "Okapi",
+  "region": "sub_saharan",
+  "rarity": "legendary",
+  "emoji": "🦓",
+  "comment": "기린 친척인데 다리는 얼룩말",
+  "countries": [
+   "COD"
+  ]
+ },
+ {
+  "id": "termite",
+  "name_ko": "흰개미",
+  "name_en": "Termite",
+  "region": "sub_saharan",
+  "rarity": "common",
+  "emoji": "🐜",
+  "comment": "초고층 흙탑 건축가",
+  "countries": [
+   "KEN",
+   "TZA",
+   "BWA"
+  ]
+ },
+ {
+  "id": "ostrich",
+  "name_ko": "타조",
+  "name_en": "Ostrich",
+  "region": "sub_saharan",
+  "rarity": "uncommon",
+  "emoji": "🐦",
+  "comment": "날지 못하지만 달리기로 해결",
+  "countries": [
+   "KEN",
+   "TZA",
+   "ZAF"
+  ]
+ },
+ {
+  "id": "ring_tailed_lemur",
+  "name_ko": "알락꼬리여우원숭이",
+  "name_en": "Ring-tailed lemur",
+  "region": "madagascar",
+  "rarity": "uncommon",
+  "emoji": "🐒",
+  "comment": "아침마다 햇볕 요가",
+  "countries": [
+   "MDG"
+  ]
+ },
+ {
+  "id": "aye_aye",
+  "name_ko": "아이아이",
+  "name_en": "Aye-aye",
+  "region": "madagascar",
+  "rarity": "legendary",
+  "emoji": "🐒",
+  "comment": "가운뎃손가락이 유난히 긴 야행성 원숭이",
+  "countries": [
+   "MDG"
+  ]
+ },
+ {
+  "id": "fossa",
+  "name_ko": "포사",
+  "name_en": "Fossa",
+  "region": "madagascar",
+  "rarity": "rare",
+  "emoji": "🐈",
+  "comment": "고양이도 아니고 개도 아닌 섬의 최상위 포식자",
+  "countries": [
+   "MDG"
+  ]
+ },
+ {
+  "id": "panther_chameleon",
+  "name_ko": "팬서카멜레온",
+  "name_en": "Panther chameleon",
+  "region": "madagascar",
+  "rarity": "uncommon",
+  "emoji": "🦎",
+  "comment": "기분 따라 색이 바뀜",
+  "countries": [
+   "MDG"
+  ]
+ },
+ {
+  "id": "giraffe_weevil",
+  "name_ko": "기린목바구미",
+  "name_en": "Giraffe weevil",
+  "region": "madagascar",
+  "rarity": "rare",
+  "emoji": "🪲",
+  "comment": "목이 몸보다 긴 벌레",
+  "countries": [
+   "MDG"
+  ]
+ },
+ {
+  "id": "sifaka",
+  "name_ko": "시파카",
+  "name_en": "Sifaka",
+  "region": "madagascar",
+  "rarity": "rare",
+  "emoji": "🐒",
+  "comment": "옆으로 춤추며 이동",
+  "countries": [
+   "MDG"
+  ]
+ },
+ {
+  "id": "tenrec",
+  "name_ko": "텐렉",
+  "name_en": "Tenrec",
+  "region": "madagascar",
+  "rarity": "common",
+  "emoji": "🦔",
+  "comment": "고슴도치 짝퉁 같지만 전혀 다른 종",
+  "countries": [
+   "MDG"
+  ]
+ },
+ {
+  "id": "bald_eagle",
+  "name_ko": "흰머리수리",
+  "name_en": "Bald eagle",
+  "region": "north_america",
+  "rarity": "rare",
+  "emoji": "🦅",
+  "comment": "미국의 상징",
+  "countries": [
+   "USA",
+   "CAN"
+  ]
+ },
+ {
+  "id": "grizzly_bear",
+  "name_ko": "회색곰",
+  "name_en": "Grizzly bear",
+  "region": "north_america",
+  "rarity": "rare",
+  "emoji": "🐻",
+  "comment": "연어 뷔페 단골",
+  "countries": [
+   "USA",
+   "CAN"
+  ]
+ },
+ {
+  "id": "beaver",
+  "name_ko": "북아메리카비버",
+  "name_en": "North American beaver",
+  "region": "north_america",
+  "rarity": "uncommon",
+  "emoji": "🦫",
+  "comment": "댐 건설 전문 토목기사",
+  "countries": [
+   "CAN",
+   "USA"
+  ]
+ },
+ {
+  "id": "skunk",
+  "name_ko": "줄무늬스컹크",
+  "name_en": "Striped skunk",
+  "region": "north_america",
+  "rarity": "common",
+  "emoji": "🦨",
+  "comment": "최종 병기 보유",
+  "countries": [
+   "USA",
+   "CAN"
+  ]
+ },
+ {
+  "id": "raccoon",
+  "name_ko": "라쿤",
+  "name_en": "Raccoon",
+  "region": "north_america",
+  "rarity": "common",
+  "emoji": "🦝",
+  "comment": "쓰레기통 판다",
+  "countries": [
+   "USA",
+   "CAN"
+  ]
+ },
+ {
+  "id": "american_bison",
+  "name_ko": "아메리카들소",
+  "name_en": "American bison",
+  "region": "north_america",
+  "rarity": "uncommon",
+  "emoji": "🦬",
+  "comment": "대평원의 헤비급",
+  "countries": [
+   "USA"
+  ]
+ },
+ {
+  "id": "rattlesnake",
+  "name_ko": "방울뱀",
+  "name_en": "Rattlesnake",
+  "region": "north_america",
+  "rarity": "uncommon",
+  "emoji": "🐍",
+  "comment": "꼬리로 경고음 울림",
+  "countries": [
+   "USA",
+   "MEX"
+  ]
+ },
+ {
+  "id": "opossum",
+  "name_ko": "버지니아주머니쥐",
+  "name_en": "Virginia opossum",
+  "region": "north_america",
+  "rarity": "common",
+  "emoji": "🐀",
+  "comment": "위기 땐 죽은 척 연기",
+  "countries": [
+   "USA"
+  ]
+ },
+ {
+  "id": "monarch_butterfly",
+  "name_ko": "제왕나비",
+  "name_en": "Monarch butterfly",
+  "region": "north_america",
+  "rarity": "uncommon",
+  "emoji": "🦋",
+  "comment": "수천 km 이주하는 나비",
+  "countries": [
+   "USA",
+   "CAN",
+   "MEX"
+  ]
+ },
+ {
+  "id": "moose",
+  "name_ko": "무스",
+  "name_en": "Moose",
+  "region": "north_america",
+  "rarity": "uncommon",
+  "emoji": "🫎",
+  "comment": "사슴계의 대형 SUV",
+  "countries": [
+   "CAN",
+   "USA"
+  ]
+ },
+ {
+  "id": "periodical_cicada",
+  "name_ko": "주기매미",
+  "name_en": "Periodical cicada",
+  "region": "north_america",
+  "rarity": "rare",
+  "emoji": "🦗",
+  "comment": "17년 땅속 생활 후 한 달 인생",
+  "countries": [
+   "USA"
+  ]
+ },
+ {
+  "id": "prairie_dog",
+  "name_ko": "프레리도그",
+  "name_en": "Prairie dog",
+  "region": "north_america",
+  "rarity": "common",
+  "emoji": "🐿️",
+  "comment": "굴 도시의 시민",
+  "countries": [
+   "USA"
+  ]
+ },
+ {
+  "id": "axolotl",
+  "name_ko": "아홀로틀(우파루파)",
+  "name_en": "Axolotl",
+  "region": "central_america",
+  "rarity": "rare",
+  "emoji": "🦎",
+  "comment": "평생 올챙이 얼굴로 웃는 도롱뇽",
+  "countries": [
+   "MEX"
+  ]
+ },
+ {
+  "id": "strawberry_dart_frog",
+  "name_ko": "딸기독화살개구리",
+  "name_en": "Strawberry poison-dart frog",
+  "region": "central_america",
+  "rarity": "rare",
+  "emoji": "🐸",
+  "comment": "예쁜 건 위험하다",
+  "countries": [
+   "CRI",
+   "PAN",
+   "NIC"
+  ]
+ },
+ {
+  "id": "red_eyed_tree_frog",
+  "name_ko": "붉은눈청개구리",
+  "name_en": "Red-eyed tree frog",
+  "region": "central_america",
+  "rarity": "uncommon",
+  "emoji": "🐸",
+  "comment": "모든 사진의 주인공",
+  "countries": [
+   "CRI",
+   "PAN"
+  ]
+ },
+ {
+  "id": "basilisk",
+  "name_ko": "바실리스크도마뱀",
+  "name_en": "Basilisk lizard",
+  "region": "central_america",
+  "rarity": "uncommon",
+  "emoji": "🦎",
+  "comment": "물 위를 달리는 도마뱀",
+  "countries": [
+   "CRI",
+   "PAN"
+  ]
+ },
+ {
+  "id": "quetzal",
+  "name_ko": "케찰",
+  "name_en": "Resplendent quetzal",
+  "region": "central_america",
+  "rarity": "legendary",
+  "emoji": "🦜",
+  "comment": "과테말라 화폐 이름이 된 새",
+  "countries": [
+   "GTM",
+   "CRI"
+  ]
+ },
+ {
+  "id": "bee_hummingbird",
+  "name_ko": "쿠바벌새",
+  "name_en": "Bee hummingbird",
+  "region": "central_america",
+  "rarity": "rare",
+  "emoji": "🐦",
+  "comment": "세계에서 가장 작은 새",
+  "countries": [
+   "CUB"
+  ]
+ },
+ {
+  "id": "green_iguana",
+  "name_ko": "녹색이구아나",
+  "name_en": "Green iguana",
+  "region": "central_america",
+  "rarity": "common",
+  "emoji": "🦎",
+  "comment": "일광욕 중독",
+  "countries": [
+   "MEX",
+   "CRI",
+   "PAN"
+  ]
+ },
+ {
+  "id": "armadillo",
+  "name_ko": "아홉띠아르마딜로",
+  "name_en": "Nine-banded armadillo",
+  "region": "central_america",
+  "rarity": "uncommon",
+  "emoji": "🐾",
+  "comment": "갑옷 입은 소형 굴착기",
+  "countries": [
+   "MEX",
+   "USA"
+  ]
+ },
+ {
+  "id": "green_anaconda",
+  "name_ko": "그린아나콘다",
+  "name_en": "Green anaconda",
+  "region": "amazon",
+  "rarity": "rare",
+  "emoji": "🐍",
+  "comment": "세계에서 가장 무거운 뱀",
+  "countries": [
+   "BRA",
+   "PER",
+   "COL",
+   "VEN"
+  ]
+ },
+ {
+  "id": "jaguar",
+  "name_ko": "재규어",
+  "name_en": "Jaguar",
+  "region": "amazon",
+  "rarity": "legendary",
+  "emoji": "🐆",
+  "comment": "아마존의 왕",
+  "countries": [
+   "BRA",
+   "PER",
+   "COL"
+  ]
+ },
+ {
+  "id": "piranha",
+  "name_ko": "피라냐",
+  "name_en": "Piranha",
+  "region": "amazon",
+  "rarity": "common",
+  "emoji": "🐟",
+  "comment": "소문보다 겁이 많음",
+  "countries": [
+   "BRA",
+   "PER",
+   "COL"
+  ]
+ },
+ {
+  "id": "capybara",
+  "name_ko": "카피바라",
+  "name_en": "Capybara",
+  "region": "amazon",
+  "rarity": "uncommon",
+  "emoji": "🦫",
+  "comment": "모든 동물과 친구, 세계 최대 설치류",
+  "countries": [
+   "BRA",
+   "COL",
+   "VEN"
+  ]
+ },
+ {
+  "id": "toco_toucan",
+  "name_ko": "토코투칸",
+  "name_en": "Toco toucan",
+  "region": "amazon",
+  "rarity": "uncommon",
+  "emoji": "🦜",
+  "comment": "부리가 곧 정체성",
+  "countries": [
+   "BRA"
+  ]
+ },
+ {
+  "id": "electric_eel",
+  "name_ko": "전기뱀장어",
+  "name_en": "Electric eel",
+  "region": "amazon",
+  "rarity": "rare",
+  "emoji": "⚡",
+  "comment": "걸어다니는 배터리",
+  "countries": [
+   "BRA",
+   "PER",
+   "VEN"
+  ]
+ },
+ {
+  "id": "amazon_river_dolphin",
+  "name_ko": "아마존강돌고래",
+  "name_en": "Amazon river dolphin",
+  "region": "amazon",
+  "rarity": "rare",
+  "emoji": "🐬",
+  "comment": "분홍색 돌고래",
+  "countries": [
+   "BRA",
+   "PER",
+   "COL"
+  ]
+ },
+ {
+  "id": "bullet_ant",
+  "name_ko": "총알개미",
+  "name_en": "Bullet ant",
+  "region": "amazon",
+  "rarity": "uncommon",
+  "emoji": "🐜",
+  "comment": "곤충 쏘임 통증 순위 최상위",
+  "countries": [
+   "BRA",
+   "PER",
+   "COL"
+  ]
+ },
+ {
+  "id": "goliath_birdeater",
+  "name_ko": "골리앗버드이터",
+  "name_en": "Goliath birdeater",
+  "region": "amazon",
+  "rarity": "rare",
+  "emoji": "🕷️",
+  "comment": "강아지만 한 거미",
+  "countries": [
+   "VEN",
+   "BRA",
+   "GUY",
+   "SUR"
+  ]
+ },
+ {
+  "id": "hoatzin",
+  "name_ko": "호아친",
+  "name_en": "Hoatzin",
+  "region": "amazon",
+  "rarity": "uncommon",
+  "emoji": "🐦",
+  "comment": "냄새나는 새라는 별명",
+  "countries": [
+   "BRA",
+   "PER",
+   "COL"
+  ]
+ },
+ {
+  "id": "giant_anteater",
+  "name_ko": "큰개미핥기",
+  "name_en": "Giant anteater",
+  "region": "amazon",
+  "rarity": "uncommon",
+  "emoji": "🐜",
+  "comment": "혀 길이 60cm",
+  "countries": [
+   "BRA",
+   "COL"
+  ]
+ },
+ {
+  "id": "three_toed_sloth",
+  "name_ko": "세발가락나무늘보",
+  "name_en": "Three-toed sloth",
+  "region": "amazon",
+  "rarity": "common",
+  "emoji": "🦥",
+  "comment": "일주일에 한 번 화장실",
+  "countries": [
+   "BRA",
+   "PER",
+   "CRI",
+   "PAN"
+  ]
+ },
+ {
+  "id": "llama",
+  "name_ko": "라마",
+  "name_en": "Llama",
+  "region": "andes",
+  "rarity": "common",
+  "emoji": "🦙",
+  "comment": "기분 나쁘면 침 뱉음",
+  "countries": [
+   "PER",
+   "BOL"
+  ]
+ },
+ {
+  "id": "alpaca",
+  "name_ko": "알파카",
+  "name_en": "Alpaca",
+  "region": "andes",
+  "rarity": "common",
+  "emoji": "🦙",
+  "comment": "털 뭉치 스웨터 원료",
+  "countries": [
+   "PER",
+   "BOL"
+  ]
+ },
+ {
+  "id": "vicuna",
+  "name_ko": "비쿠냐",
+  "name_en": "Vicuña",
+  "region": "andes",
+  "rarity": "rare",
+  "emoji": "🦙",
+  "comment": "세상에서 가장 비싼 털",
+  "countries": [
+   "PER",
+   "BOL"
+  ]
+ },
+ {
+  "id": "andean_condor",
+  "name_ko": "안데스콘도르",
+  "name_en": "Andean condor",
+  "region": "andes",
+  "rarity": "rare",
+  "emoji": "🦅",
+  "comment": "날개 3m 하늘의 거인",
+  "countries": [
+   "PER",
+   "CHL",
+   "ARG"
+  ]
+ },
+ {
+  "id": "chinchilla",
+  "name_ko": "친칠라",
+  "name_en": "Chinchilla",
+  "region": "andes",
+  "rarity": "uncommon",
+  "emoji": "🐭",
+  "comment": "털이 너무 빽빽해서 벼룩도 못 삶",
+  "countries": [
+   "CHL"
+  ]
+ },
+ {
+  "id": "guanaco",
+  "name_ko": "과나코",
+  "name_en": "Guanaco",
+  "region": "andes",
+  "rarity": "common",
+  "emoji": "🦙",
+  "comment": "야생 라마",
+  "countries": [
+   "ARG",
+   "CHL"
+  ]
+ },
+ {
+  "id": "magellanic_penguin",
+  "name_ko": "마젤란펭귄",
+  "name_en": "Magellanic penguin",
+  "region": "andes",
+  "rarity": "uncommon",
+  "emoji": "🐧",
+  "comment": "더운 곳 사는 펭귄",
+  "countries": [
+   "ARG",
+   "CHL"
+  ]
+ },
+ {
+  "id": "titicaca_frog",
+  "name_ko": "티티카카물개구리",
+  "name_en": "Titicaca water frog",
+  "region": "andes",
+  "rarity": "rare",
+  "emoji": "🐸",
+  "comment": "피부가 쭈글쭈글 늘어진 호수 개구리",
+  "countries": [
+   "PER",
+   "BOL"
+  ]
+ },
+ {
+  "id": "galapagos_tortoise",
+  "name_ko": "갈라파고스땅거북",
+  "name_en": "Galápagos tortoise",
+  "region": "andes",
+  "rarity": "legendary",
+  "emoji": "🐢",
+  "comment": "100살은 기본",
+  "countries": [
+   "ECU"
+  ]
+ },
+ {
+  "id": "marine_iguana",
+  "name_ko": "바다이구아나",
+  "name_en": "Marine iguana",
+  "region": "andes",
+  "rarity": "rare",
+  "emoji": "🦎",
+  "comment": "바다에서 수영하는 유일한 도마뱀",
+  "countries": [
+   "ECU"
+  ]
+ },
+ {
+  "id": "blue_footed_booby",
+  "name_ko": "파란발부비새",
+  "name_en": "Blue-footed booby",
+  "region": "andes",
+  "rarity": "uncommon",
+  "emoji": "🐦",
+  "comment": "파란 발로 구애 댄스",
+  "countries": [
+   "ECU"
+  ]
+ },
+ {
+  "id": "red_kangaroo",
+  "name_ko": "붉은캥거루",
+  "name_en": "Red kangaroo",
+  "region": "australia",
+  "rarity": "common",
+  "emoji": "🦘",
+  "comment": "복싱 챔피언",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "koala",
+  "name_ko": "코알라",
+  "name_en": "Koala",
+  "region": "australia",
+  "rarity": "uncommon",
+  "emoji": "🐨",
+  "comment": "하루 20시간 수면",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "wombat",
+  "name_ko": "웜뱃",
+  "name_en": "Wombat",
+  "region": "australia",
+  "rarity": "uncommon",
+  "emoji": "🐹",
+  "comment": "정육면체 똥을 싸는 유일한 동물",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "platypus",
+  "name_ko": "오리너구리",
+  "name_en": "Platypus",
+  "region": "australia",
+  "rarity": "rare",
+  "emoji": "🦆",
+  "comment": "신이 남은 부품으로 만든 동물",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "quokka",
+  "name_ko": "쿼카",
+  "name_en": "Quokka",
+  "region": "australia",
+  "rarity": "uncommon",
+  "emoji": "😊",
+  "comment": "세상에서 가장 행복한 얼굴",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "emu",
+  "name_ko": "에뮤",
+  "name_en": "Emu",
+  "region": "australia",
+  "rarity": "common",
+  "emoji": "🐦",
+  "comment": "호주 군대와 전쟁해서 이긴 새",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "tasmanian_devil",
+  "name_ko": "태즈메이니아데빌",
+  "name_en": "Tasmanian devil",
+  "region": "australia",
+  "rarity": "rare",
+  "emoji": "😈",
+  "comment": "이름만 악마, 사실 소형견 크기",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "saltwater_crocodile",
+  "name_ko": "바다악어",
+  "name_en": "Saltwater crocodile",
+  "region": "australia",
+  "rarity": "rare",
+  "emoji": "🐊",
+  "comment": "현존 최대 파충류",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "dingo",
+  "name_ko": "딩고",
+  "name_en": "Dingo",
+  "region": "australia",
+  "rarity": "uncommon",
+  "emoji": "🐕",
+  "comment": "호주 야생견",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "cassowary",
+  "name_ko": "남방화식조",
+  "name_en": "Southern cassowary",
+  "region": "australia",
+  "rarity": "legendary",
+  "emoji": "🦤",
+  "comment": "세상에서 가장 위험한 새",
+  "countries": [
+   "AUS",
+   "PNG"
+  ]
+ },
+ {
+  "id": "funnel_web_spider",
+  "name_ko": "시드니깔때기그물거미",
+  "name_en": "Sydney funnel-web spider",
+  "region": "australia",
+  "rarity": "rare",
+  "emoji": "🕷️",
+  "comment": "호주가 무서운 이유 1순위",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "echidna",
+  "name_ko": "가시두더지",
+  "name_en": "Echidna",
+  "region": "australia",
+  "rarity": "uncommon",
+  "emoji": "🦔",
+  "comment": "알 낳는 포유류 2호",
+  "countries": [
+   "AUS",
+   "PNG"
+  ]
+ },
+ {
+  "id": "kookaburra",
+  "name_ko": "웃음물총새(쿠카부라)",
+  "name_en": "Kookaburra",
+  "region": "australia",
+  "rarity": "common",
+  "emoji": "🐦",
+  "comment": "웃음소리가 공포영화 효과음",
+  "countries": [
+   "AUS"
+  ]
+ },
+ {
+  "id": "birdwing_butterfly",
+  "name_ko": "알렉산드라비단제비나비",
+  "name_en": "Queen Alexandra's birdwing",
+  "region": "oceania",
+  "rarity": "legendary",
+  "emoji": "🦋",
+  "comment": "세계에서 가장 큰 나비, 날개 폭 약 25cm",
+  "countries": [
+   "PNG"
+  ]
+ },
+ {
+  "id": "bird_of_paradise",
+  "name_ko": "극락조",
+  "name_en": "Bird-of-paradise",
+  "region": "oceania",
+  "rarity": "rare",
+  "emoji": "🦚",
+  "comment": "구애 댄스 장인",
+  "countries": [
+   "PNG",
+   "IDN"
+  ]
+ },
+ {
+  "id": "tree_kangaroo",
+  "name_ko": "나무타기캥거루",
+  "name_en": "Tree-kangaroo",
+  "region": "oceania",
+  "rarity": "rare",
+  "emoji": "🦘",
+  "comment": "캥거루인데 나무에 삶",
+  "countries": [
+   "PNG"
+  ]
+ },
+ {
+  "id": "kiwi",
+  "name_ko": "키위",
+  "name_en": "Kiwi",
+  "region": "oceania",
+  "rarity": "uncommon",
+  "emoji": "🥝",
+  "comment": "날개 없는 털뭉치 새",
+  "countries": [
+   "NZL"
+  ]
+ },
+ {
+  "id": "kakapo",
+  "name_ko": "카카포",
+  "name_en": "Kākāpō",
+  "region": "oceania",
+  "rarity": "legendary",
+  "emoji": "🦜",
+  "comment": "날지 못하는 뚱뚱한 앵무새",
+  "countries": [
+   "NZL"
+  ]
+ },
+ {
+  "id": "kea",
+  "name_ko": "케아",
+  "name_en": "Kea",
+  "region": "oceania",
+  "rarity": "uncommon",
+  "emoji": "🦜",
+  "comment": "자동차 와이퍼 뜯는 앵무새",
+  "countries": [
+   "NZL"
+  ]
+ },
+ {
+  "id": "giant_weta",
+  "name_ko": "자이언트웨타",
+  "name_en": "Giant wētā",
+  "region": "oceania",
+  "rarity": "rare",
+  "emoji": "🦗",
+  "comment": "세상에서 가장 무거운 곤충 후보",
+  "countries": [
+   "NZL"
+  ]
+ },
+ {
+  "id": "tuatara",
+  "name_ko": "투아타라",
+  "name_en": "Tuatara",
+  "region": "oceania",
+  "rarity": "legendary",
+  "emoji": "🦖",
+  "comment": "공룡시대부터 살아남은 파충류",
+  "countries": [
+   "NZL"
+  ]
+ },
+ {
+  "id": "coconut_crab",
+  "name_ko": "야자집게",
+  "name_en": "Coconut crab",
+  "region": "oceania",
+  "rarity": "rare",
+  "emoji": "🦀",
+  "comment": "코코넛을 부수는 거대 게",
+  "countries": [
+   "VUT",
+   "KIR"
+  ]
+ },
+ {
+  "id": "polar_bear",
+  "name_ko": "북극곰",
+  "name_en": "Polar bear",
+  "region": "polar",
+  "rarity": "rare",
+  "emoji": "🐻‍❄️",
+  "comment": "흰 털 아래 피부는 검은색",
+  "countries": [
+   "CAN",
+   "GRL",
+   "NOR",
+   "RUS"
+  ]
+ },
+ {
+  "id": "emperor_penguin",
+  "name_ko": "황제펭귄",
+  "name_en": "Emperor penguin",
+  "region": "polar",
+  "rarity": "rare",
+  "emoji": "🐧",
+  "comment": "영하 40도에서 알 품는 아빠",
+  "countries": [
+   "ATA"
+  ]
+ },
+ {
+  "id": "arctic_fox",
+  "name_ko": "북극여우",
+  "name_en": "Arctic fox",
+  "region": "polar",
+  "rarity": "uncommon",
+  "emoji": "🦊",
+  "comment": "계절 따라 털색 체인지",
+  "countries": [
+   "GRL",
+   "CAN",
+   "NOR"
+  ]
+ },
+ {
+  "id": "walrus",
+  "name_ko": "바다코끼리",
+  "name_en": "Walrus",
+  "region": "polar",
+  "rarity": "uncommon",
+  "emoji": "🦭",
+  "comment": "엄니로 빙판 등반",
+  "countries": [
+   "GRL",
+   "CAN",
+   "RUS"
+  ]
+ },
+ {
+  "id": "narwhal",
+  "name_ko": "일각고래",
+  "name_en": "Narwhal",
+  "region": "polar",
+  "rarity": "legendary",
+  "emoji": "🦄",
+  "comment": "바다의 유니콘",
+  "countries": [
+   "GRL",
+   "CAN"
+  ]
+ },
+ {
+  "id": "snowy_owl",
+  "name_ko": "흰올빼미",
+  "name_en": "Snowy owl",
+  "region": "polar",
+  "rarity": "uncommon",
+  "emoji": "🦉",
+  "comment": "하얀 부엉이",
+  "countries": [
+   "CAN",
+   "GRL",
+   "NOR"
+  ]
+ },
+ {
+  "id": "weddell_seal",
+  "name_ko": "웨들해물범",
+  "name_en": "Weddell seal",
+  "region": "polar",
+  "rarity": "uncommon",
+  "emoji": "🦭",
+  "comment": "얼음 밑에서 노래함",
+  "countries": [
+   "ATA"
+  ]
+ },
+ {
+  "id": "blue_whale",
+  "name_ko": "대왕고래",
+  "name_en": "Blue whale",
+  "region": "ocean",
+  "rarity": "legendary",
+  "emoji": "🐋",
+  "comment": "지구 역사상 가장 큰 동물",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "태평양",
+    "at": [
+     5,
+     -140
+    ]
+   },
+   {
+    "name_ko": "남극해",
+    "at": [
+     -62,
+     -100
+    ]
+   }
+  ]
+ },
+ {
+  "id": "great_white_shark",
+  "name_ko": "백상아리",
+  "name_en": "Great white shark",
+  "region": "ocean",
+  "rarity": "rare",
+  "emoji": "🦈",
+  "comment": "바다의 공포",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "대서양",
+    "at": [
+     34,
+     -40
+    ]
+   },
+   {
+    "name_ko": "태평양",
+    "at": [
+     30,
+     -135
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ocean_sunfish",
+  "name_ko": "개복치",
+  "name_en": "Ocean sunfish",
+  "region": "ocean",
+  "rarity": "uncommon",
+  "emoji": "🐡",
+  "comment": "멘탈이 약하다는 소문의 주인공",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "태평양",
+    "at": [
+     20,
+     -155
+    ]
+   },
+   {
+    "name_ko": "대서양",
+    "at": [
+     30,
+     -35
+    ]
+   }
+  ]
+ },
+ {
+  "id": "giant_squid",
+  "name_ko": "대왕오징어",
+  "name_en": "Giant squid",
+  "region": "ocean",
+  "rarity": "legendary",
+  "emoji": "🦑",
+  "comment": "눈이 농구공만 함",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "태평양 심해",
+    "at": [
+     -42,
+     170
+    ]
+   },
+   {
+    "name_ko": "대서양 심해",
+    "at": [
+     38,
+     -28
+    ]
+   }
+  ]
+ },
+ {
+  "id": "immortal_jellyfish",
+  "name_ko": "작은보호탑해파리",
+  "name_en": "Immortal jellyfish",
+  "region": "ocean",
+  "rarity": "legendary",
+  "emoji": "🪼",
+  "comment": "다시 어려지는 불사의 해파리",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "대서양",
+    "at": [
+     28,
+     -50
+    ]
+   },
+   {
+    "name_ko": "태평양",
+    "at": [
+     15,
+     165
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sperm_whale",
+  "name_ko": "향유고래",
+  "name_en": "Sperm whale",
+  "region": "ocean",
+  "rarity": "rare",
+  "emoji": "🐳",
+  "comment": "잠수 챔피언",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "태평양",
+    "at": [
+     0,
+     -150
+    ]
+   },
+   {
+    "name_ko": "대서양",
+    "at": [
+     0,
+     -25
+    ]
+   },
+   {
+    "name_ko": "인도양",
+    "at": [
+     -15,
+     75
+    ]
+   }
+  ]
+ },
+ {
+  "id": "green_sea_turtle",
+  "name_ko": "푸른바다거북",
+  "name_en": "Green sea turtle",
+  "region": "ocean",
+  "rarity": "uncommon",
+  "emoji": "🐢",
+  "comment": "바다의 장거리 여행자",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "인도양",
+    "at": [
+     -15,
+     80
+    ]
+   },
+   {
+    "name_ko": "태평양",
+    "at": [
+     5,
+     160
+    ]
+   }
+  ]
+ },
+ {
+  "id": "clownfish",
+  "name_ko": "흰동가리",
+  "name_en": "Clownfish",
+  "region": "ocean",
+  "rarity": "common",
+  "emoji": "🐠",
+  "comment": "말미잘 집 세입자",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "인도양",
+    "at": [
+     -8,
+     92
+    ]
+   },
+   {
+    "name_ko": "태평양",
+    "at": [
+     -15,
+     155
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sea_otter",
+  "name_ko": "해달",
+  "name_en": "Sea otter",
+  "region": "ocean",
+  "rarity": "uncommon",
+  "emoji": "🦦",
+  "comment": "손잡고 자는 바다 수달",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "북태평양",
+    "at": [
+     52,
+     -165
+    ]
+   }
+  ]
+ },
+ {
+  "id": "blobfish",
+  "name_ko": "블롭피시",
+  "name_en": "Blobfish",
+  "region": "ocean",
+  "rarity": "rare",
+  "emoji": "🫠",
+  "comment": "세계에서 가장 못생긴 동물 1위",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "호주 근해 심해",
+    "at": [
+     -40,
+     152
+    ]
+   }
+  ]
+ },
+ {
+  "id": "anglerfish",
+  "name_ko": "아귀",
+  "name_en": "Anglerfish",
+  "region": "ocean",
+  "rarity": "uncommon",
+  "emoji": "🎣",
+  "comment": "머리에 전등 달고 다님",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "대서양",
+    "at": [
+     40,
+     -30
+    ]
+   },
+   {
+    "name_ko": "태평양",
+    "at": [
+     25,
+     -160
+    ]
+   }
+  ]
+ },
+ {
+  "id": "antarctic_krill",
+  "name_ko": "남극크릴",
+  "name_en": "Antarctic krill",
+  "region": "ocean",
+  "rarity": "common",
+  "emoji": "🦐",
+  "comment": "고래의 주식",
+  "countries": [],
+  "coords": [
+   {
+    "name_ko": "남극해",
+    "at": [
+     -62,
+     -40
+    ]
+   }
+  ]
+ }
+]

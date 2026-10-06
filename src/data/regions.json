@@ -1,0 +1,30 @@
+[
+  { "id": "east_asia", "name_ko": "동아시아", "countries": ["KOR", "JPN", "CHN", "TWN", "MNG"] },
+  { "id": "southeast_asia", "name_ko": "동남아시아", "countries": ["IDN", "MYS", "THA", "VNM", "PHL", "BRN"] },
+  { "id": "south_asia", "name_ko": "남아시아·히말라야", "countries": ["IND", "NPL", "BTN", "BGD", "LKA", "PAK"] },
+  { "id": "middle_east", "name_ko": "중동·중앙아시아", "countries": ["SAU", "ARE", "OMN", "JOR", "IRN", "KAZ", "UZB"] },
+  { "id": "europe", "name_ko": "유럽", "countries": ["GBR", "FRA", "DEU", "ESP", "ITA", "POL", "NOR", "SWE", "FIN", "CHE", "SVN", "ISL"] },
+  { "id": "russia", "name_ko": "러시아·시베리아", "countries": ["RUS"] },
+  { "id": "north_africa", "name_ko": "북아프리카·사하라", "countries": ["EGY", "MAR", "DZA", "TUN", "LBY"] },
+  { "id": "sub_saharan", "name_ko": "사하라 이남 아프리카", "countries": ["KEN", "TZA", "ZAF", "BWA", "NAM", "COD", "RWA", "UGA", "ETH"] },
+  { "id": "madagascar", "name_ko": "마다가스카르", "countries": ["MDG"] },
+  { "id": "north_america", "name_ko": "북아메리카", "countries": ["USA", "CAN"] },
+  { "id": "central_america", "name_ko": "중앙아메리카·카리브", "countries": ["MEX", "GTM", "CRI", "PAN", "CUB", "NIC"] },
+  { "id": "amazon", "name_ko": "아마존", "countries": ["BRA", "PER", "COL", "VEN", "GUY", "SUR"] },
+  { "id": "andes", "name_ko": "안데스·파타고니아·갈라파고스", "countries": ["PER", "BOL", "CHL", "ARG", "ECU"] },
+  { "id": "australia", "name_ko": "호주", "countries": ["AUS"] },
+  { "id": "oceania", "name_ko": "뉴기니·뉴질랜드·태평양 섬", "countries": ["PNG", "NZL", "VUT", "KIR"] },
+  {
+    "id": "polar",
+    "name_ko": "극지방",
+    "countries": ["GRL", "CAN", "NOR", "ATA"],
+    "pins": {
+      "CAN": { "name_ko": "캐나다 북극권", "at": [74, -95] },
+      "NOR": { "name_ko": "스발바르 (노르웨이)", "at": [78.2, 15.6] },
+      "RUS": { "name_ko": "러시아 북극해 연안", "at": [73.5, 105] },
+      "GRL": { "name_ko": "그린란드", "at": [73.08, -41.8] },
+      "ATA": { "name_ko": "남극", "at": [-78, 20] }
+    }
+  },
+  { "id": "ocean", "name_ko": "대양", "countries": [] }
+]
